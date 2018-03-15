@@ -19,6 +19,7 @@ Here's a line for us to start with. Batch
 > ```
 
 ### Products Exist in Seller’s Catalog:
+
 #### Add Single Product to Batch:
 
 1. Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → Search Product page.
@@ -40,11 +41,12 @@ Here's a line for us to start with
 2. To finalize click on WORK button to continue to Create Shipment Plan page.
 
 > ```
-> By default batch privacy would be OPEN to every user, which means any user can add items to this batch, if it is LOCKED only a user who has created can add items
+> By default batch privacy would be OPEN to every user, which means any user can add items to this batch,
+> if it is LOCKED only a user who has created can add items
 > ```
 
-3. User can edit the batch name, select the batch privacy, ship from warehouse, package and label types for a particular batch.
-4. Seller can manually enter/update any field directly or use the Add Details to Selected button to bulk edit the Cost Price, Minimum price, Maximum price or Quantity.
+1. User can edit the batch name, select the batch privacy, ship from warehouse, package and label types for a particular batch.
+2. Seller can manually enter/update any field directly or use the Add Details to Selected button to bulk edit the Cost Price, Minimum price, Maximum price or Quantity.
 
 > ```
 > Product Catalog Status (hover on status for details)
@@ -53,9 +55,8 @@ Here's a line for us to start with
 > ERROR: A Product cannot be added to seller’s catalog because of any error, you cannot go to next step without removing this product from the batch.
 > ```
 
-5. You can press Create Shipment Plan button to proceed, in case of errors you can see the errors on screen and you need to fix
+1. You can press Create Shipment Plan button to proceed, in case of errors you can see the errors on screen and you need to fix
    any errors mentioned.
-
 
 ## STEP 3: FINALISE BATCH {#step3}
 
@@ -76,3 +77,6 @@ Here's a line for us to start with.This is [an example](http://example.com/ "Tit
 6. A product can be removed from a box using delete button, Item label can be printed using the print button.
 7. Shipment Item List shows the number of products in a particular box and the remaining quantity to be packed.
 8. When All items are successfully packed to boxed you can submit a feed using a Submit Feed button on the top.
+
+
+
