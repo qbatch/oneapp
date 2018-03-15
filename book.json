@@ -1,9 +1,22 @@
 {
-  "root": "./docs",
-  "plugins": ["disqus"],
+  "plugins": [
+    "disqus",
+    "-search",
+    "-lunr",
+    "docsearch"
+  ],
   "pluginsConfig": {
       "disqus": {
           "shortName": "oneapp"
-      }
+      },
+      "docSearch": {
+       "apiKey" : "replace_with_algolia_doc_search_api_key",
+       "index" : "replace_with_algolia_doc_search_index"
+     }
+  },
+  "addcssjs": {
+    "css": [
+      "css/index.css"
+    ]
   }
 }
