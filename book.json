@@ -11,12 +11,8 @@
       },
       "docSearch": {
        "apiKey" : "79f508ea9481d67fcf072d85e9367180",
-       "index" : "minmaxind"
+       "index" : "minmaxind",
+       "brandUrl" : "https://oneapp.minmaxind.com"
      }
-  },
-  "addcssjs": {
-    "css": [
-      "css/index.css"
-    ]
   }
 }
