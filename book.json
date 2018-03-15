@@ -1,3 +1,9 @@
 {
-  "root": "./docs"
+  "root": "./docs",
+  "plugins": ["disqus"],
+  "pluginsConfig": {
+      "disqus": {
+          "shortName": "oneapp"
+      }
+  }
 }
