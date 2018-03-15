@@ -7,20 +7,20 @@ What if Buy Box price found less than product's minimum price or greater than ma
 
 ### Scenarios:
 
-#### When Buy Box Below Your Minimum Price:
+#### When Buy Box Below Your Minimum Price: {#4}
 We allow users to select one of the following options in this case:
 `Use Maximum`:  It will set price to Maximum Price.
 `Use Minimum`:  It will set price to Minimum Price.
 `Next Lowest`: Repricer will find the rating best price above your Minimum Price and add/subtract according to rule from it and sets a new price. This option is also applicable if products have no Buy Box offer.
 Don't Reprice:  It will not re-price.
 
-#### When Buy Box Above Maximum:
+#### When Buy Box Above Maximum Price: {#5}
 We allow users to select one of the following options in this case:
 `Use Maximum`: It will set price to Maximum Price.
 `Use Minimum`: It will set price to Minimum Price.
 `Don't Reprice`: It will not re-price.
 
-#### When You Are Buy Box Winner:
+#### When You Are Buy Box Winner: {#6}
 We allow users to select one of the following options in this case:
 Decrease By Competition: Repricer will find the best price above our price so we may not lose our Buy Box and stay in a competitive price. Users can enter price and select the price to add/minus in % or $. Repricer will reprice it accordingly.
 Don't Reprice: In this case, When you are in Buy Box, Repricer will not re-price.
