@@ -34,30 +34,49 @@ What if Lowest price found less than product's minimum price or equal minimum pr
 
 
 ### Scenarios:
-#### When Lowest Price Below Minimum:
+#### When Lowest Price Below Minimum: {#7}
 If Repricer found Lowest Price below your Minimum Price and user selects one of the following options.
 `Use Maximum`: It will set price to Maximum Price.
+
+
 `Use Minimum`: It will set price to Minimum Price.
+
+
 `Next Lowest`: Repricer will find the rating best price above your Minimum Price and add/subtract according to rule from it and sets a new price.
+
+
 `Don't Reprice`:  It will not re-price.
 
-#### When Lowest Price equals Minimum:
+
+
+#### When Lowest Price equals Minimum: {#8}
 If  Repricer found Lowest Price equals your Minimum Price and user selects one of the following options:
+
 `Use Maximum`: It will set price to Maximum Price.
+
 `Use Minimum`: It will set price to Minimum Price.
+
 `Don't Reprice`: It will not re-price.
 
-#### If No Competition:
+
+#### If No Competition: {#9}
 If our Re pricer found no competition and users select one of the following options:
 `Use Maximum`: It will set price to Maximum Price.
+
 `Use Minimum`: It will set price to Minimum Price.
+
 `Don't Reprice`: It will not re-price.
+
 
 
 ## Exclude Sellers {#3}
 User can exclude sellers while competing to other offers. Users can select following options to exclude sellers:
 Ignore Seller Rating: User can enter Seller Rating and Feedback count to exclude sellers. Repricer will not compete with the Feedback Rating and Count less than and equal to the number that user enters.
+
 `Ignore Seller Ids`: User can enter multiple Seller Ids to exclude them from competing with. Repricer will not compete with them.
+
 `Ignore If Seller is Fulfilled By Merchant`: User can select this option to exclude FBM sellers.
+
 `Ignore If seller is Amazon`: User can select this option to exclude Amazon selling offer.
+
 `Ignore If seller with free shipping`: User can select this option to exclude sellers with free shipping.

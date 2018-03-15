@@ -1,10 +1,1 @@
-# ONE APP: 
-
-| Repricer | Fulfilmentat | Restock |
-| :---: | :---: | :---: |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-
-
+# ONE APP
