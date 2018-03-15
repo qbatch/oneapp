@@ -10,8 +10,8 @@
           "shortName": "oneapp"
       },
       "docSearch": {
-       "apiKey" : "replace_with_algolia_doc_search_api_key",
-       "index" : "replace_with_algolia_doc_search_index"
+       "apiKey" : "79f508ea9481d67fcf072d85e9367180",
+       "index" : "minmaxind"
      }
   },
   "addcssjs": {
