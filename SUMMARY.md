@@ -1,13 +1,12 @@
 # Summary
 
-### LIST/SHIP
-* [STEP 1: CREATE BATCH](README.md#step1)
-* [STEP 2: WORK ON BATCH](README.md#step2)
-* [STEP 3: FINALISE BATCH](README.md#step3)
-* [STEP 4: PACK BATCH](README.md#step4)
+* [LIST/SHIP](LIST-SHIP.md)
+  * [STEP 1: CREATE BATCH](LIST-SHIP.md#step1)
+  * [STEP 2: WORK ON BATCH](LIST-SHIP.md#step2)
+  * [STEP 3: FINALISE BATCH](LIST-SHIP.md#step3)
+  * [STEP 4: PACK BATCH](LIST-SHIP.md#step4)
 
-### REPRICER
-
-* [Compete With Buy Box](README.md#1)
-* [Compete With Lowest Price:](README.md#2)
-* [Exclude Sellers](README.md#3)
+* [REPRICER](REPRICER.md)
+  * [Compete With Buy Box](REPRICER.md#1)
+  * [Compete With Lowest Price:](REPRICER.md#2)
+  * [Exclude Sellers](REPRICER.md#3)
