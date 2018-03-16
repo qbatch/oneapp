@@ -2,16 +2,14 @@
 
 ## STEP 1: CREATE BATCH {#step1}
 
-Here's a line for us to start with. Batch
-
 ### Products not in Seller’s Catalog:
 
-1. Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → Search Product [page](https://oneapp.minmaxind.com/list/product-search).![](/assets/2018-03-16_14-37-06-2-1.gif)![](/assets/product-list-item.png)
-2. Click on Add to Batch button to add a product in an OPEN or DRAFT batch.
+1. Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → Search Product [page](https://oneapp.minmaxind.com/list/product-search).
+2. Click on **`Add to Batch`** button to add a product in a batch.
 3. Seller can manually add a SKU or generate a new SKU using the button Generate MSKU.
 4. Similarly you can add in your Product Cost Price/List Price and required Quantity to ship.
 5. Seller can add in Minimum/Maximum Sell Price for a repricer at the time of adding a product, similarly he can choose the reprice strategy to be applied to this product, reprice can be enabled for this product right away using the Reprice toggle button on this form, which would only be enabled if min, max price and strategy is selected.
-6. Seller can choose from the dropdown if he wants to add a product to a DRAFT \(default\) or OPEN batch.
+6. Seller can choose from the dropdown if he wants to add a product to a **`DRAFT`** _**\(default\)/**_**`OPEN`** /**`NEW` **batch
 
 > ```
 > Before shipping a product to Amazon, it is must to list product in seller’s catalog.
@@ -78,6 +76,7 @@ Here's a line for us to start with.This is [an example](http://example.com/ "Tit
 3. Click on `ITEMS` button to View/Pack shipment items into boxes.
 
 4. Select the items using the checkbox, you can add a custom quantity to a box by editing the Qty to Box field, click on the Add to Box button to add items into an existing box or create a new box.
+
 5. Item quantity in a box can be edited in the box and you are also able to add a custom expiry date to a product.
 6. A product can be removed from a box using delete button, Item label can be printed using the print button.
 7. Shipment Item List shows the number of products in a particular box and the remaining quantity to be packed.
