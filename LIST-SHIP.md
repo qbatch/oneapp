@@ -4,7 +4,7 @@
 
 ### Products not in Seller’s Catalog:
 
-1. Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → Search Product [page](https://oneapp.minmaxind.com/list/product-search).
+1. Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → Search Product [page](https://oneapp.minmaxind.com/list/product-search).![Shipment List](/assets/search-product.gif)
 2. Click on **`Add to Batch`** button to add a product in a batch.
 3. Seller can manually add a SKU or generate a new SKU using the button Generate MSKU.
 4. Similarly you can add in your Product Cost Price/List Price and required Quantity to ship.
@@ -69,7 +69,7 @@ Here's a line for us to start with.
 
 Here's a line for us to start with.This is [an example](http://example.com/ "Title") inline link with a title.
 
-1. You would be redirected to List/Ship → Shipments page to finalise a shipment.![](/assets/inbound-shipment-list.png)
+1. You would be redirected to List/Ship → Shipments page to finalise a shipment.![Shipment List](/assets/inbound-shipment-list.png)
 
 2. You can `Edit`**/**`Update`**/**`Remove`** **and Print Shipping Labels for any shipment.
 
@@ -81,6 +81,3 @@ Here's a line for us to start with.This is [an example](http://example.com/ "Tit
 6. A product can be removed from a box using delete button, Item label can be printed using the print button.
 7. Shipment Item List shows the number of products in a particular box and the remaining quantity to be packed.
 8. When All items are successfully packed to boxed you can submit a feed using a Submit Feed button on the top.
-
-
-
