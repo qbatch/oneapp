@@ -6,7 +6,7 @@ Here's a line for us to start with. Batch
 
 ### Products not in Seller’s Catalog:
 
-1. Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → Search Product [page](https://oneapp.minmaxind.com/list/product-search).![](/assets/product-list-item.png)
+1. Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → Search Product [page](https://oneapp.minmaxind.com/list/product-search).![](/assets/2018-03-16_14-37-06-2-1.gif)![](/assets/product-list-item.png)
 2. Click on Add to Batch button to add a product in an OPEN or DRAFT batch.
 3. Seller can manually add a SKU or generate a new SKU using the button Generate MSKU.
 4. Similarly you can add in your Product Cost Price/List Price and required Quantity to ship.
