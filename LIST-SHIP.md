@@ -5,11 +5,11 @@
 ### Products not in Seller’s Catalog:
 
 1. Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → Search Product [page](https://oneapp.minmaxind.com/list/product-search).![Shipment List](/assets/search-product.gif)
-2. Click on **`Add to Batch`** button to add a product in a batch.
+2. Click on `Add to Batch` button to add a product in a batch.
 3. Seller can manually add a SKU or generate a new SKU using the button Generate MSKU.
 4. Similarly you can add in your Product Cost Price/List Price and required Quantity to ship.
 5. Seller can add in Minimum/Maximum Sell Price for a repricer at the time of adding a product, similarly he can choose the reprice strategy to be applied to this product, reprice can be enabled for this product right away using the Reprice toggle button on this form, which would only be enabled if min, max price and strategy is selected.
-6. Seller can choose from the dropdown if he wants to add a product to a **`DRAFT`** _**\(default\)/**_**`OPEN`** /**`NEW` **batch
+6. Seller can choose from the dropdown if he wants to add a product to a `DRAFT` _**\(default\)/**_`OPEN` /`NEW`** **batch
 
 > ```
 > Before shipping a product to Amazon, it is must to list product in seller’s catalog.
@@ -29,13 +29,13 @@
 
 #### Add Multiple Products to Batch:
 
-1. Go to Inventory → List Page, find products using custom filters, Seller can select multiple products using checkbox, selected products would be preserved while you can change filters and select other products for the batch. You can view selected products anytime using the View Selected option, and clear selection using Clear Selection option.![](/assets/multiple-products.png)
+1. Go to Inventory → List Page, find products using custom filters, Seller can select multiple products using checkbox, selected products would be preserved while you can change filters and select other products for the batch. You can view selected products anytime using the View Selected option, and clear selection using Clear Selection option.![](/assets/add-batch-inventory.png)
 2. Seller can choose from the Add To Batch dropdown if he wants to add a product to a DRAFT or OPEN batch.
 
 ## STEP 2: WORK ON BATCH {#step2}
 
 Here's a line for us to start with  
-1. Go to List/Ship → Batches page to finalize your OPEN/DRAFT batch.![](/assets/work-batch.png)  
+1. Go to List/Ship → Batches page to finalize your OPEN/DRAFT batch.![](/assets/batch-list.png)  
 2. To finalize click on WORK button to continue to Create Shipment Plan page.
 
 > ```
@@ -46,7 +46,7 @@ Here's a line for us to start with
 1. User can edit the batch name, select the batch privacy, ship from warehouse, package and label types for a particular batch.
 2. Seller can manually enter/update any field directly or use the Add Details to Selected button to bulk edit the Cost Price, Minimum price, Maximum price or Quantity.
 
-![](/assets/batch-detail.png)
+![](/assets/create-shipment-plan.png)
 
 > ```
 > Product Catalog Status (hover on status for details)
@@ -78,6 +78,10 @@ Here's a line for us to start with.This is [an example](http://example.com/ "Tit
 4. Select the items using the checkbox, you can add a custom quantity to a box by editing the Qty to Box field, click on the Add to Box button to add items into an existing box or create a new box.
 
 5. Item quantity in a box can be edited in the box and you are also able to add a custom expiry date to a product.
+
 6. A product can be removed from a box using delete button, Item label can be printed using the print button.
 7. Shipment Item List shows the number of products in a particular box and the remaining quantity to be packed.
 8. When All items are successfully packed to boxed you can submit a feed using a Submit Feed button on the top.
+
+
+
