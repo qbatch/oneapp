@@ -71,14 +71,14 @@ Here's a line for us to start with.
 
 Here's a line for us to start with.This is [an example](http://example.com/ "Title") inline link with a title.
 
-1. You would be redirected to List/Ship → Shipments page to finalise a shipment.![](/assets/Shipments.png)
-2. You can Edit/Update/Remove and print Shipping Labels for any shipment.
-3. Click on ITEMS button to View/Pack shipment items into boxes.
-4. Select the items using the checkbox, you can add a custom quantity to a box by editing the Qty to Box field, click on the Add to Box button to add items into an existing box or create a new box.
-5. Item quantity in a box can be edited in the box and you are also able to add a custom expiry date to a product.
-6. A product can be removed from a box using delete button, Item label can be printed using the print button.
-7. Shipment Item List shows the number of products in a particular box and the remaining quantity to be packed.
-8. When All items are successfully packed to boxed you can submit a feed using a Submit Feed button on the top.
+1. You would be redirected to List/Ship → Shipments page to finalise a shipment.![](/assets/inbound-shipment-list.png)You can **`Edit`/`Update`/`Remove` **and Print Shipping Labels for any shipment.
+
+1. Click on `ITEMS` button to View/Pack shipment items into boxes.
+2. Select the items using the checkbox, you can add a custom quantity to a box by editing the Qty to Box field, click on the Add to Box button to add items into an existing box or create a new box.
+3. Item quantity in a box can be edited in the box and you are also able to add a custom expiry date to a product.
+4. A product can be removed from a box using delete button, Item label can be printed using the print button.
+5. Shipment Item List shows the number of products in a particular box and the remaining quantity to be packed.
+6. When All items are successfully packed to boxed you can submit a feed using a Submit Feed button on the top.
 
 
 
