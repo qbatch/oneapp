@@ -6,9 +6,9 @@ Here's a line for us to start with. Batch
 
 ### Products not in Seller’s Catalog:
 
-1. Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → Search Product page.
+1. Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → Search Product [page](https://oneapp.minmaxind.com/list/product-search).![](/assets/product-list-item.png)
 2. Click on Add to Batch button to add a product in an OPEN or DRAFT batch.
-3. Seller can manually add a SKU or generate a new sku using the button Generate MSKU.
+3. Seller can manually add a SKU or generate a new SKU using the button Generate MSKU.
 4. Similarly you can add in your Product Cost Price/List Price and required Quantity to ship.
 5. Seller can add in Minimum/Maximum Sell Price for a repricer at the time of adding a product, similarly he can choose the reprice strategy to be applied to this product, reprice can be enabled for this product right away using the Reprice toggle button on this form, which would only be enabled if min, max price and strategy is selected.
 6. Seller can choose from the dropdown if he wants to add a product to a DRAFT \(default\) or OPEN batch.
@@ -23,7 +23,7 @@ Here's a line for us to start with. Batch
 #### Add Single Product to Batch:
 
 1. Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → Search Product page.
-2. Click on Add to Batch button to add a product in an DRAFT or OPEN batch.
+2. Click on Add to Batch button to add a product in an DRAFT or OPEN batch.![](/assets/list-item.png)
 3. By default first Amazon fulfilled product exists in a catalog would be selected with a condition and SKU, seller can choose from a list if it has multiple products with that ASIN, Form would be auto filled with last used values for this product.
 4. Similarly you can add in your Product Cost Price/List Price and required Quantity to ship.
 5. Seller can add in Minimum/Maximum Sell Price for a repricer at the time of adding a product, similarly he can choose the reprice strategy to be applied to this product, reprice can be enabled for this product right away using the Reprice toggle button on this form, which would only be enabled if min, max price and strategy is selected.
@@ -31,13 +31,13 @@ Here's a line for us to start with. Batch
 
 #### Add Multiple Products to Batch:
 
-1. Go to Inventory → List Page, find products using custom filters, Seller can select multiple products using checkbox, selected products would be preserved while you can change filters and select other products for the batch. You can view selected products anytime using the View Selected option, and clear selection using Clear Selection option.
+1. Go to Inventory → List Page, find products using custom filters, Seller can select multiple products using checkbox, selected products would be preserved while you can change filters and select other products for the batch. You can view selected products anytime using the View Selected option, and clear selection using Clear Selection option.![](/assets/multiple-products.png)
 2. Seller can choose from the Add To Batch dropdown if he wants to add a product to a DRAFT or OPEN batch.
 
 ## STEP 2: WORK ON BATCH {#step2}
 
 Here's a line for us to start with  
-1. Go to List/Ship → Batches page to finalize your OPEN/DRAFT batch.  
+1. Go to List/Ship → Batches page to finalize your OPEN/DRAFT batch.![](/assets/work-batch.png)  
 2. To finalize click on WORK button to continue to Create Shipment Plan page.
 
 > ```
@@ -47,6 +47,8 @@ Here's a line for us to start with
 
 1. User can edit the batch name, select the batch privacy, ship from warehouse, package and label types for a particular batch.
 2. Seller can manually enter/update any field directly or use the Add Details to Selected button to bulk edit the Cost Price, Minimum price, Maximum price or Quantity.
+
+![](/assets/batch-detail.png)
 
 > ```
 > Product Catalog Status (hover on status for details)
@@ -62,7 +64,7 @@ Here's a line for us to start with
 
 Here's a line for us to start with.  
 1. A shipment plan would suggest to create multiple shipments recommended by Amazon based on Fulfilment center and Label Type. App would show any existing shipments for the same Fulfillment Center and Label type next to a shipment recommended by amazon so that can be merged. If you want to merge with an existing shipment you can mark the checkbox otherwise a new shipment would be created. A recommended shipment can be removed using a \(x\) button at the end of row.  
-2. You can also select the Box Content Source for the newly created shipments from the top menu, you can choose between `NONE` \(default\), `2D\_Barcode` and `FEED`.  
+2. You can also select the Box Content Source for the newly created shipments from the top menu, you can choose between** `NONE`**_**\(default\)**_, **`2D Barcode`** and **`FEED`**.  
 3. You can press Create Shipments to proceed, you would be taken to shipments page where you can view the shipments created by this particular  batch.
 
 ## STEP 4: PACK BATCH {#step4}
