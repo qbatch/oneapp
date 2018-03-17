@@ -48,10 +48,10 @@ Here's a line for us to start with
 
 ![](/assets/create-shipment-plan.png)
 
-> ```
+> ```markdown
 > Product Catalog Status (hover on status for details)
 > EXIST: Product Already exist in seller’s catalog
-> PENDING: Adding a new product to catalog is in progress
+> **PENDING**: Adding a new product to catalog is in progress
 > ERROR: A Product cannot be added to seller’s catalog because of any error, you cannot go to next step without removing this product from the batch.
 > ```
 
@@ -62,7 +62,7 @@ Here's a line for us to start with
 
 Here's a line for us to start with.  
 1. A shipment plan would suggest to create multiple shipments recommended by Amazon based on Fulfilment center and Label Type. App would show any existing shipments for the same Fulfillment Center and Label type next to a shipment recommended by amazon so that can be merged. If you want to merge with an existing shipment you can mark the checkbox otherwise a new shipment would be created. A recommended shipment can be removed using a \(x\) button at the end of row.  
-2. You can also select the Box Content Source for the newly created shipments from the top menu, you can choose between** **`NONE`_**\(default\)**_, `2D Barcode` and `FEED`.  
+2. You can also select the Box Content Source for the newly created shipments from the top menu, you can choose between** `NONE`**_**\(default\)**_, **`2D Barcode`** and **`FEED`**.  
 3. You can press Create Shipments to proceed, you would be taken to shipments page where you can view the shipments created by this particular  batch.
 
 ## STEP 4: PACK BATCH {#step4}
@@ -71,15 +71,16 @@ Here's a line for us to start with.This is [an example](http://example.com/ "Tit
 
 1. You would be redirected to List/Ship → Shipments page to finalise a shipment.![Shipment List](/assets/inbound-shipment-list.png)
 
-2. You can `Edit`**/**`Update`**/**`Remove`** **and Print Shipping Labels for any shipment.
+2. You can **`Edit`/`Update`/`Remove` **and Print Shipping Labels for any shipment.
 
-3. Click on `ITEMS` button to View/Pack shipment items into boxes.
+3. Click on **`ITEMS`** button to View/Pack shipment items into boxes.
 
 4. Select the items using the checkbox, you can add a custom quantity to a box by editing the Qty to Box field, click on the Add to Box button to add items into an existing box or create a new box.
 
 5. Item quantity in a box can be edited in the box and you are also able to add a custom expiry date to a product.
 
 6. A product can be removed from a box using delete button, Item label can be printed using the print button.
+
 7. Shipment Item List shows the number of products in a particular box and the remaining quantity to be packed.
 8. When All items are successfully packed to boxed you can submit a feed using a Submit Feed button on the top.
 
