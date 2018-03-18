@@ -9,7 +9,7 @@
 3. Seller can manually add a SKU or generate a new SKU using the button Generate MSKU.
 4. Similarly you can add in your Product Cost Price/List Price and required Quantity to ship.
 5. Seller can add in Minimum/Maximum Sell Price for a repricer at the time of adding a product, similarly he can choose the reprice strategy to be applied to this product, reprice can be enabled for this product right away using the Reprice toggle button on this form, which would only be enabled if min, max price and strategy is selected.
-6. Seller can choose from the dropdown if he wants to add a product to a `DRAFT` _**\(default\)/**_`OPEN` /`NEW`** **batch
+6. Seller can choose from the dropdown if he wants to add a product to a **`DRAFT`**_**\(default\)/**_**`OPEN`** /**`NEW` **batch
 
 > ```
 > Before shipping a product to Amazon, it is must to list product in seller’s catalog.
@@ -62,14 +62,12 @@ Here's a line for us to start with
 
 Here's a line for us to start with.  
 1. A shipment plan would suggest to create multiple shipments recommended by Amazon based on Fulfilment center and Label Type. App would show any existing shipments for the same Fulfillment Center and Label type next to a shipment recommended by amazon so that can be merged. If you want to merge with an existing shipment you can mark the checkbox otherwise a new shipment would be created. A recommended shipment can be removed using a \(x\) button at the end of row.  
-2. You can also select the Box Content Source for the newly created shipments from the top menu, you can choose between** `NONE`**_**\(default\)**_, **`2D Barcode`** and **`FEED`**.  
+2. You can also select the Box Content Source for the newly created shipments from the top menu, you can choose between** **`NONE`_**\(default\)**_, `2D Barcode` and `FEED`.  
 3. You can press Create Shipments to proceed, you would be taken to shipments page where you can view the shipments created by this particular  batch.
 
 ## STEP 4: PACK BATCH {#step4}
 
-Here's a line for us to start with.This is [an example](http://example.com/ "Title") inline link with a title.
-
-1. You would be redirected to List/Ship → Shipments page to finalise a shipment.![Shipment List](/assets/inbound-shipment-list.png)
+1. You would be redirected to **List/Ship → Shipments** [page](https://oneapp.minmaxind.com/list/shipments "Shipments") to finalise a shipment.![Shipment List](/assets/inbound-shipment-list.png)
 
 2. You can **`Edit`/`Update`/`Remove` **and Print Shipping Labels for any shipment.
 
@@ -82,6 +80,7 @@ Here's a line for us to start with.This is [an example](http://example.com/ "Tit
 6. A product can be removed from a box using delete button, Item label can be printed using the print button.
 
 7. Shipment Item List shows the number of products in a particular box and the remaining quantity to be packed.
+
 8. When All items are successfully packed to boxed you can submit a feed using a Submit Feed button on the top.
 
 
