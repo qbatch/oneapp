@@ -5,11 +5,11 @@
 ### Products not in Seller’s Catalog:
 
 1. Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → Search Product [page](https://oneapp.minmaxind.com/list/product-search).![Shipment List](/assets/search-product.gif)
-2. Click on **`Add to Batch`** button to add a product in a batch.
+2. Click on `Add to Batch` button to add a product in a batch.
 3. Seller can manually add a SKU or generate a new SKU using the button Generate MSKU.
 4. Similarly you can add in your Product Cost Price/List Price and required Quantity to ship.
 5. Seller can add in Minimum/Maximum Sell Price for a repricer at the time of adding a product, similarly he can choose the reprice strategy to be applied to this product, reprice can be enabled for this product right away using the Reprice toggle button on this form, which would only be enabled if min, max price and strategy is selected.
-6. Seller can choose from the dropdown if he wants to add a product to a **`DRAFT`**_**\(default\)/**_**`OPEN`** /**`NEW` **batch
+6. Seller can choose from the dropdown if he wants to add a product to a `DRAFT`_**\(default\)/**_`OPEN` /`NEW`** **batch
 
 > ```
 > Before shipping a product to Amazon, it is must to list product in seller’s catalog.
@@ -30,13 +30,13 @@
 #### Add Multiple Products to Batch:
 
 1. Go to Inventory → List Page, find products using custom filters, Seller can select multiple products using checkbox, selected products would be preserved while you can change filters and select other products for the batch. You can view selected products anytime using the View Selected option, and clear selection using Clear Selection option.![](/assets/add-batch-inventory.png)
-2. Seller can choose from the Add To Batch dropdown if he wants to add a product to a **`DRAFT`** or **`OPEN`** batch.
+2. Seller can choose from the Add To Batch dropdown if he wants to add a product to a `DRAFT` or `OPEN` batch.
 
 ## STEP 2: WORK ON BATCH {#step2}
 
 Here's a line for us to start with  
 1. Go to List/Ship → Batches page to finalize your OPEN/DRAFT batch.![](/assets/batch-list.png)  
-2. To finalize click on **`WORK`** button to continue to Create Shipment Plan page.
+2. To finalize click on `WORK` button to continue to Create Shipment Plan page.
 
 > ```
 > By default batch privacy would be OPEN to every user, which means any user can add items to this batch,
@@ -60,9 +60,8 @@ Here's a line for us to start with
 
 ## STEP 3: FINALISE BATCH {#step3}
 
-Here's a line for us to start with.  
-1. A shipment plan would suggest to create multiple shipments recommended by Amazon based on Fulfilment center and Label Type. App would show any existing shipments for the same Fulfillment Center and Label type next to a shipment recommended by amazon so that can be merged. If you want to merge with an existing shipment you can mark the checkbox otherwise a new shipment would be created. A recommended shipment can be removed using a \(x\) button at the end of row.  
-2. You can also select the Box Content Source for the newly created shipments from the top menu, you can choose between** `NONE`**_**\(default\)**_, **`2D Barcode`** and **`FEED`**  
+1. A shipment plan would suggest to create multiple shipments recommended by Amazon based on Fulfilment center and Label Type. App would show any existing shipments for the same Fulfillment Center and Label type next to a shipment recommended by amazon so that can be merged. If you want to merge with an existing shipment you can mark the checkbox otherwise a new shipment would be created. A recommended shipment can be removed using a \(x\) button at the end of row.![](/assets/review-shipment.png)
+2. You can also select the Box Content Source for the newly created shipments from the top menu, you can choose between** **`NONE`_**\(default\)**_, `2D Barcode` and `FEED`
 3. You can press Create Shipments to proceed, you would be taken to shipments page where you can view the shipments created by this particular  batch.
 
 ## STEP 4: PACK BATCH {#step4}
