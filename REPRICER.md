@@ -71,7 +71,7 @@ If our Re pricer found no competition and users select one of the following opti
 
 ## Exclude Sellers {#3}
 User can exclude sellers while competing to other offers. Users can select following options to exclude sellers:
-Ignore Seller Rating: User can enter Seller Rating and Feedback count to exclude sellers. Repricer will not compete with the Feedback Rating and Count less than and equal to the number that user enters.
+Ignore Seller Rating: User can enter Seller Rating and Feedback count to exclude sellers. Repricer will not compete with the Feedback Rating and Count less than and equal to the number that user enters.[^2]
 
 `Ignore Seller Ids`: User can enter multiple Seller Ids to exclude them from competing with. Repricer will not compete with them.
 
@@ -80,3 +80,6 @@ Ignore Seller Rating: User can enter Seller Rating and Feedback count to exclude
 `Ignore If seller is Amazon`: User can select this option to exclude Amazon selling offer.
 
 `Ignore If seller with free shipping`: User can select this option to exclude sellers with free shipping.
+
+
+[^2]: Comment to include in footnote.
