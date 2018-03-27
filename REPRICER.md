@@ -6,7 +6,7 @@ In Live Mode, We will upload these price changes directly to Amazon and we displ
 ## Enable/Disable Repricer: {#1}
 
 We have settings page where we allow users to enable/disable the repricer. When user clicks on enable button, Our repricer will  
-be able to receive notifications for that user and start repricing. On the other hand, when user clicks on disable button, Our repricer will not reprice the products price for that user. For products repricing users must enable the repricer.
+be able to receive notifications for that user and start repricing. On the other hand, when user clicks on disable button, Our repricer will not reprice[^2] the products price for that user. For products repricing users must enable the repricer.
 
 ## Compete With Buy Box {#1}
 
@@ -78,7 +78,7 @@ If our Re pricer found no competition and users select one of the following opti
 
 ## Exclude Sellers {#3}
 User can exclude sellers while competing to other offers. Users can select following options to exclude sellers:
-Ignore Seller Rating: User can enter Seller Rating and Feedback count to exclude sellers. Repricer will not compete with the Feedback Rating and Count less than and equal to the number that user enters.[^2]
+Ignore Seller Rating: User can enter Seller Rating and Feedback count to exclude sellers. Repricer will not compete with the Feedback Rating and Count less than and equal to the number that user enters.
 
 `Ignore Seller Ids`: User can enter multiple Seller Ids to exclude them from competing with. Repricer will not compete with them.
 

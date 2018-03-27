@@ -17,4 +17,4 @@
     * [If No Competition](REPRICER#9)
   * [Exclude Sellers](REPRICER.md#3)
 
-* [Release Notes] (RELEASE_NOTES.md)
+* [Release Notes](RELEASE_NOTES.md)
