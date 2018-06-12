@@ -1,5 +1,5 @@
 {
-  "plugins": [ "disqus", "-search", "-lunr", "docsearch", "toggle-chapters"],
+  "plugins": [ "disqus", "-search", "-lunr", "docsearch", "toggle-chapters", "favicon"],
   "pluginsConfig": {
     "disqus": {
       "shortName": "oneapp"
@@ -8,6 +8,9 @@
       "apiKey" : "79f508ea9481d67fcf072d85e9367180",
       "index" : "minmaxind",
       "brandUrl" : "https://oneapp.minmaxind.com"
+    },
+    "favicon":{
+      "shortcut": "assets/images/favicon.ico"
     }
   }
 }
