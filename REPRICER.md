@@ -1,4 +1,4 @@
-## Repricing Mode: {#1}
+## Repricing[Buy Box Winner Already](/REPRICER.md#6) Mode: {#1}
 
 Our repricer has two modes. Live Mode and Test Mode. In Test Mode our repricer will reprice the products and display prices within our system in reprice suggestions page, where users can see change prices and confirm whether they want to upload them to Amazon or not. With Test Mode, you can try out our Repricer.  
 In Live Mode, We will upload these price changes directly to Amazon and we display all the price changes to Amazon within our system in reprice history page.
@@ -77,7 +77,8 @@ If our Re pricer found no competition and users select one of the following opti
 `Don't Reprice`: It will not re-price.
 
 ## Exclude Sellers {#3}
-User can exclude sellers while competing to other offers. Users can select following options to exclude sellers:
+
+User can exclude sellers while competing to other offers. Users can select following options to exclude sellers:  
 Ignore Seller Rating: User can enter Seller Rating and Feedback count to exclude sellers. Repricer will not compete with the Feedback Rating and Count less than and equal to the number that user enters.
 
 `Ignore Seller Ids`: User can enter multiple Seller Ids to exclude them from competing with. Repricer will not compete with them.
@@ -88,5 +89,5 @@ Ignore Seller Rating: User can enter Seller Rating and Feedback count to exclude
 
 `Ignore If seller with free shipping`: User can select this option to exclude sellers with free shipping.
 
-
 [^2]: Comment to include in footnote.
+
