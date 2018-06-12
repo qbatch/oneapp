@@ -1,5 +1,5 @@
 # Summary
-
+* [Introduction](README.md)
 * [LIST/SHIP](LIST-SHIP.md)
   * [STEP 1: CREATE BATCH](LIST-SHIP.md#step1)
   * [STEP 2: WORK ON BATCH](LIST-SHIP.md#step2)
@@ -17,4 +17,4 @@
     * [If No Competition](REPRICER#9)
   * [Exclude Sellers](REPRICER.md#3)
 
-* [Release Notes](RELEASE_NOTES.md)
+* [OneApp Setup Instructions](oneapp-setup-instructions.md)
