@@ -1,6 +1,4 @@
-
-
-# Setup Instructions
+# Instructions
 
 ## **Step 1:**
 
@@ -20,7 +18,7 @@ Enter your credit card details to activate your account. You can also apply for 
 
 ## Step 4:
 
-Authorize the app in Seller Central. Go to Seller Central and click the “Settings” button and then choose “User Permissions”.**               
+Authorize the app in Seller Central. Go to Seller Central and click the “Settings” button and then choose “User Permissions”.**                 
 **
 
 ![](https://lh6.googleusercontent.com/hj0LV7A9EqCi2y66XBAEy2Sx_byd6uhYDkKTIAe2L9DCDGOpNFEHgrfGZqst_etdyU3nGsq7ddBOmEHNAfpsSIOTH3C510p2gn9Ihkd2KW7MTWlLDGwT3Yo9afsGwfjHMiVJNzTV)**  ** **   **
@@ -33,12 +31,12 @@ Click the Authorize a developer button.
 
 ## Step 6:
 
-**        
+**          
 **Complete form as shown below.  **          **
 
 **Application Name: **MinMaxInd
 
-**Application’s Developer Account Number: **6827-5609-8009**                      
+**Application’s Developer Account Number: **6827-5609-8009**                        
 **
 
 ![](https://lh4.googleusercontent.com/uUcucOh1n9EPBZuHbXsUgzM8FDXbO7eNM7yMpXHQnSAiN2IwL55vGvLO_M24pqo36FC62MRptLIyGs0nPZyqL0uWk6QoTThRM1gKu0UPBTwOkKuc3tTSbkWM1Xae7Ts2TAV_28r2)**      **
@@ -53,7 +51,7 @@ Copy the Seller ID and Auth Token you get from the form above into the “Setup�
 
 After the app has been setup with your MWS Credentials. This will automatically sync the dashboard, inventory, orders, finances, shipments, FBA reports, reimbursement and restock history and reports data.
 
-**                  
+**                    
 **![](https://lh4.googleusercontent.com/slL04rX1OmAzSgITQSQCqrj2EIr5OO-09JeXFqi9CkKTN2vWiMN2TbNR26Ma-X0oHlK6XqJIEx3wmDYJ4pTy4krC7-RC84H7u8acjaH_MqO_CJnhNyXJ78Sp6O6LWlmMlQI2c1tq)
 
 Give the Sync process time to complete \(it will vary depending on the number of items in your catalog\). Once the process completes you will see all of your inventory items in the Inventory page. The process might take approximately three to four days.
