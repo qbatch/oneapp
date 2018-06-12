@@ -1,6 +1,8 @@
 # Min Max Industries
 
-## One App Setup Instructions
+# One App 
+
+# Setup Instructions
 
 ### 
 
