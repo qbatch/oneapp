@@ -16,6 +16,5 @@
     * [Lowest Price Equals Min Price](REPRICER#8)
     * [If No Competition](REPRICER#9)
   * [Exclude Sellers](REPRICER.md#3)
-* [SETUP](setup.md)
 * [SETUP INSTRUCTIONS](setup-instructions.md)
 
