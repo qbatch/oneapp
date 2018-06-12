@@ -1,6 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
+* [SETUP INSTRUCTIONS](setup-instructions.md)
+  * [Sign Up](setup-instructions.md#step1)
+  * [Setup MWS Credentials](setup-instructions.md#step2)
+  * [Setup Printer](setup-instructions.md#step3)
+
 * [LIST/SHIP](LIST-SHIP.md)
   * [STEP 1: CREATE BATCH](LIST-SHIP.md#step1)
   * [STEP 2: WORK ON BATCH](LIST-SHIP.md#step2)
@@ -16,5 +21,3 @@
     * [Lowest Price Equals Min Price](REPRICER#8)
     * [If No Competition](REPRICER#9)
   * [Exclude Sellers](REPRICER.md#3)
-* [SETUP INSTRUCTIONS](setup-instructions.md)
-
