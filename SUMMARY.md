@@ -17,4 +17,5 @@
     * [If No Competition](REPRICER#9)
   * [Exclude Sellers](REPRICER.md#3)
 * [SETUP](setup.md)
+* [SETUP INSTRUCTIONS](setup-instructions.md)
 

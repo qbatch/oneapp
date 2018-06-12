@@ -12,14 +12,14 @@
 
 **Step 2:**
 
-**Be sure that you have Java installed on your system. Using Internet Explorer or Safari go to this URL and you will be able to confirm that you are running the most current version of Java **[**https://www.java.com/en/download/installed.jsp**](https://www.java.com/en/download/installed.jsp.)**        
+**Be sure that you have Java installed on your system. Using Internet Explorer or Safari go to this URL and you will be able to confirm that you are running the most current version of Java **[**https://www.java.com/en/download/installed.jsp**](https://www.java.com/en/download/installed.jsp.)**            
 **
 
 **Step 3:**
 
 **Enter your credit card details to activate your account. You can also apply for promo code.**
 
-![](https://lh3.googleusercontent.com/-CenTovIVYIBzqJPTPrKOo2Xu8XjYRAS2WdVuOVA76pNSTjJqOTUSwjEsG7JSJ-S6CQqGEgnkhuH6PeWbNob8Q01S-Hkyik5UsTCZs4GZ37MnuIw7RYj3kAfK6hYN9PUADs2wlhV)**        
+![](https://lh3.googleusercontent.com/-CenTovIVYIBzqJPTPrKOo2Xu8XjYRAS2WdVuOVA76pNSTjJqOTUSwjEsG7JSJ-S6CQqGEgnkhuH6PeWbNob8Q01S-Hkyik5UsTCZs4GZ37MnuIw7RYj3kAfK6hYN9PUADs2wlhV)**            
 **
 
 **Step 4:  
@@ -27,10 +27,10 @@ Authorize the app in Seller Central. Go to Seller Central and click the “Setti
 
 **button and then choose “User Permissions”.**
 
-**          
+**              
 **
 
-![](https://lh6.googleusercontent.com/hj0LV7A9EqCi2y66XBAEy2Sx_byd6uhYDkKTIAe2L9DCDGOpNFEHgrfGZqst_etdyU3nGsq7ddBOmEHNAfpsSIOTH3C510p2gn9Ihkd2KW7MTWlLDGwT3Yo9afsGwfjHMiVJNzTV)**        
+![](https://lh6.googleusercontent.com/hj0LV7A9EqCi2y66XBAEy2Sx_byd6uhYDkKTIAe2L9DCDGOpNFEHgrfGZqst_etdyU3nGsq7ddBOmEHNAfpsSIOTH3C510p2gn9Ihkd2KW7MTWlLDGwT3Yo9afsGwfjHMiVJNzTV)**            
 **
 
 **Step 5:**
@@ -42,12 +42,12 @@ Authorize the app in Seller Central. Go to Seller Central and click the “Setti
 ---
 
 **Step 6:  
-Complete form as shown below.        
+Complete form as shown below.            
 **
 
 **Application Name: MinMaxInd**
 
-**Application’s Developer Account Number:6827-5609-8009          
+**Application’s Developer Account Number:6827-5609-8009              
 **
 
 ![](https://lh4.googleusercontent.com/uUcucOh1n9EPBZuHbXsUgzM8FDXbO7eNM7yMpXHQnSAiN2IwL55vGvLO_M24pqo36FC62MRptLIyGs0nPZyqL0uWk6QoTThRM1gKu0UPBTwOkKuc3tTSbkWM1Xae7Ts2TAV_28r2)**      **
@@ -64,7 +64,7 @@ Complete form as shown below.
 
 **After the app has been setup with your MWS Credentials. This will automatically sync the dashboard, inventory, orders, finances, shipments, FBA reports, reimbursement and restock history and reports data.**
 
-**          
+**              
 **![](https://lh4.googleusercontent.com/slL04rX1OmAzSgITQSQCqrj2EIr5OO-09JeXFqi9CkKTN2vWiMN2TbNR26Ma-X0oHlK6XqJIEx3wmDYJ4pTy4krC7-RC84H7u8acjaH_MqO_CJnhNyXJ78Sp6O6LWlmMlQI2c1tq)
 
 **Give the Sync process time to complete \(it will vary depending on the number of items in your catalog\). Once the process completes you will see all of your inventory items in the Inventory page. The process might take approximately three to four days.**
