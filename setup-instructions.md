@@ -4,9 +4,9 @@
 
 ## Setup Instructions
 
-### 
+###
 
-### Sign Up**:**
+### Sign Up {#step1}
 
 #### Step 1**:**
 
@@ -24,7 +24,7 @@ Enter your credit card details to activate your account. You can also apply for 
 
 ![](https://lh3.googleusercontent.com/-CenTovIVYIBzqJPTPrKOo2Xu8XjYRAS2WdVuOVA76pNSTjJqOTUSwjEsG7JSJ-S6CQqGEgnkhuH6PeWbNob8Q01S-Hkyik5UsTCZs4GZ37MnuIw7RYj3kAfK6hYN9PUADs2wlhV)**   **
 
-### Setup MWS Credentials:
+### Setup MWS Credentials {#step2}
 
 #### Step 1
 
@@ -66,11 +66,10 @@ After the app has been setup with your MWS Credentials. This will automatically 
 
 Give the Sync process time to complete \(it will vary depending on the number of items in your catalog\). Once the process completes you will see all of your inventory items in the Inventory page. The process might take approximately three to four days.
 
-### Setup Printer:
+### Setup Printer {#step3}
 
 Set up your printers. Each dropdown is self-explanatory as to which printer you are setting up. If for any reason you do not see any printers in the dropdown it means that the LP application is not running on your computer. Just run the program and you should then see your printers listed. The LP program that was installed at the beginning of your setup process is the key to the web application being able to print. It MUST be running in the background at all times so if you restart your computer for some reason you will need to run the installed program again before going to the web app.
 
 ![](/assets/printer-settings.png)
 
 After you set up your printers. You will be able to print labels through the app either from inventory or shipments page. We have provided many other ways as well to print labels in our app. You can enable Instant Printing while adding products to batch.
-
