@@ -1,11 +1,11 @@
 # Summary
 
+* [Introduction](README.md)
 * [LIST/SHIP](LIST-SHIP.md)
   * [STEP 1: CREATE BATCH](LIST-SHIP.md#step1)
   * [STEP 2: WORK ON BATCH](LIST-SHIP.md#step2)
   * [STEP 3: FINALISE BATCH](LIST-SHIP.md#step3)
   * [STEP 4: PACK BATCH](LIST-SHIP.md#step4)
-
 * [REPRICER](REPRICER.md)
   * [Compete With Buy Box Price](REPRICER.md#1)
     * [Buy Box Below Min Price](REPRICER.md#4)
@@ -16,3 +16,5 @@
     * [Lowest Price Equals Min Price](REPRICER#8)
     * [If No Competition](REPRICER#9)
   * [Exclude Sellers](REPRICER.md#3)
+* [OneApp Setup Instructions](oneapp-setup-instructions.md)
+
