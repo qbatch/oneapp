@@ -1,6 +1,6 @@
 # Min Max Industries
 
-# One App 
+# One App
 
 # Setup Instructions
 
@@ -8,7 +8,7 @@
 
 ## Credentials:
 
-### **Step 1:**
+### **Step 1**
 
 Register your account and complete the checkout process to pay for access.
 
