@@ -1,8 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Setup](#)
-
 * [LIST/SHIP](LIST-SHIP.md)
   * [STEP 1: CREATE BATCH](LIST-SHIP.md#step1)
   * [STEP 2: WORK ON BATCH](LIST-SHIP.md#step2)
@@ -18,6 +16,4 @@
     * [Lowest Price Equals Min Price](REPRICER#8)
     * [If No Competition](REPRICER#9)
   * [Exclude Sellers](REPRICER.md#3)
-
-
 
