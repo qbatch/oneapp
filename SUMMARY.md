@@ -1,10 +1,11 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [SETUP INSTRUCTIONS](setup-instructions/README.md)
-  * [Sign Up](setup-instructions/sign-up.md)
-  * [Setup MWS Credentials](setup-instructions/setup-mws-credentials.md)
-  * [Setup Printer](setup-instructions/setup-printer.md)
+* [Introduction](introduction/README.md)
+  * [Printer](introduction/printer/README.md)
+    * [Test](introduction/printer/test.md)
+    * [test2](introduction/printer/test2.md)
+  * [abc 233](introduction/abc-233.md)
 * [LIST/SHIP](list-ship/README.md)
   * [STEP 1: CREATE BATCH](list-ship/step-1-create-batch.md)
   * [STEP 2: WORK ON BATCH](list-ship/step-2-work-on-batch.md)
@@ -25,4 +26,6 @@
 
 * [ABC](test/abc.md)
 * [CDE](test/cde.md)
+* [Untitled](test/untitled.md)
+* [Untitled](test/untitled-1.md)
 
