@@ -1,6 +1,24 @@
 # LIST/SHIP
 
-## STEP 1: CREATE BATCH {#step1}
+## ADD TO SHIPMENT {#step1}
+
+### Products not in Seller’s Catalog:
+
+1. Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → List Products [page](https://oneapp.minmaxind.com/list/product-search).
+2. Click on `Add to Shipment` button to add a product to a shipment. 
+3. Seller can manually add a SKU or generate a new SKU using the button Generate MSKU.
+4. Similarly you can add in your Product Cost Price/List Price and required Quantity to ship.
+5. After adding all the details to product. Click on `Add to Shipment` button to add a product to a shipment. It will take you to the Add To Shipment → Review Items page.
+6. Review items page shows you the amazon recommended distribution of product across multiple warehouses.
+7. To increase/decrease the quantity of product, enter the new quantity and click on`Save` button.
+8. Click on the edit icon to edit product details.
+9. Hover on the shipment ID to change the selected shipment. You can create a new WORKING Shipment or choose from existing WORKING shipments if any.
+10. Initially default name is provided for new shipments, However you can edit the shipment name.
+11. You can view the existing items inside shipment by clicking on info icon in front of the shipment ID.
+12. If you don't want to send the items to particular warehouse. You can remove that quantity by clicking on remove icon in front of the particular shipment ID.
+13. Once you finished reviewing the items. Now you can click on`Create Shipments` button to add the items to shipments on amazon.
+
+## ADD TO BATCH {#step1}
 
 ### Products not in Seller’s Catalog:
 

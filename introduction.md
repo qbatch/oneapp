@@ -44,7 +44,7 @@ Enter your credit card details to activate your account. You can also apply for 
 ![](https://lh3.googleusercontent.com/-CenTovIVYIBzqJPTPrKOo2Xu8XjYRAS2WdVuOVA76pNSTjJqOTUSwjEsG7JSJ-S6CQqGEgnkhuH6PeWbNob8Q01S-Hkyik5UsTCZs4GZ37MnuIw7RYj3kAfK6hYN9PUADs2wlhV)
 
 {% hint style="info" %}
-After the payment you can setup your MWS Credentials \([help](settings/mws-setup.md#step-1)\). This will automatically sync the dashboard, inventory, orders, finances, shipments, FBA reports, reimbursement and restock history and reports data.
+After the payment you can setup your MWS Credentials \(help\). This will automatically sync the dashboard, inventory, orders, finances, shipments, FBA reports, reimbursement and restock history and reports data.
 {% endhint %}
 
 ![Dashboard](https://lh4.googleusercontent.com/slL04rX1OmAzSgITQSQCqrj2EIr5OO-09JeXFqi9CkKTN2vWiMN2TbNR26Ma-X0oHlK6XqJIEx3wmDYJ4pTy4krC7-RC84H7u8acjaH_MqO_CJnhNyXJ78Sp6O6LWlmMlQI2c1tq)
