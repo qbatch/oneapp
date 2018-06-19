@@ -6,13 +6,13 @@ description: Setup your Amazon's MWS Credentials in one app to sync data.
 
 ## Step 1
 
-Authorise the app in Seller Central. Go to Seller Central and click the “Settings” button and then choose \`User Permissions\`. ****
+Authorise the app in Seller Central. Go to Seller Central and click the **`Settings`** button and then choose **`User Permissions`**. ****
 
 ![](https://lh6.googleusercontent.com/hj0LV7A9EqCi2y66XBAEy2Sx_byd6uhYDkKTIAe2L9DCDGOpNFEHgrfGZqst_etdyU3nGsq7ddBOmEHNAfpsSIOTH3C510p2gn9Ihkd2KW7MTWlLDGwT3Yo9afsGwfjHMiVJNzTV)
 
 ## Step 2
 
-Click the Authorize a developer button.
+Click the **`Authorize a developer`** button.
 
 ![](https://lh4.googleusercontent.com/yHenpS27H1MtgTdwQpLT4HR-2VfGvKeNLzFUpLPuf_SjIVtFaopTd7ULKmLvDvW5-dej9ef_oeCK9D4yNW60gaOa3fPLs3TRaB2HjEEDq8J2xmkHfmwfuLXww8H9oaEiYdX5aIwr)
 
@@ -36,6 +36,4 @@ Copy the Seller ID and Auth Token you get from the form above into the “Setup�
 {% hint style="info" %}
 Give the Sync process time to complete \(it will vary depending on the number of items in your catalog\). Once the process completes you will see all of your inventory items in the Inventory page.
 {% endhint %}
-
->
 
