@@ -1,2 +1,0 @@
-# Compete With Lowest Price
-
