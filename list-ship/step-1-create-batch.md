@@ -1,2 +1,0 @@
-# STEP 1: CREATE BATCH
-

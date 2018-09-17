@@ -32,7 +32,7 @@ If you want to see all the price changes of a Product visit details page of inve
 
 ![Inventory Details Page \(Full Price History\)](.gitbook/assets/inventory-details-page.png)
 
-##  Strategies
+## Strategies
 
 User can make different Strategies and then Reprice their Products depending on these Strategies.
 
@@ -40,14 +40,14 @@ User can make different Strategies and then Reprice their Products depending on 
 
 ![Strategy 2-2](.gitbook/assets/strategy2-2.png)
 
-## Compete With Buy Box
-
-We allow users to compete with Buy Box offer. Users are able to add/subtract/match to/from Buy Box price. In this rule, users may choose one option either Subtract From Buy Box Price or Add To Buy Box Price or Match To Buy Box Price. Users can enter price and select the price to plus/minus in % or $. According to this rule, Repricer will find the Buy Box offer and apply the strategy. Note: Buy Box we compete to can be FBM, FBA or Amazon.  
- What if Buy Box price found less than product's minimum price or greater than maximum price or there is a possibility that there is no Buy Box offer or you are already in a Buy Box. In this case users can set rules for these scenarios in strategy.
-
 ![](.gitbook/assets/only-buy-box.png)
 
 **Scenarios:**
+
+### Compete With Buy Box
+
+We allow users to compete with Buy Box offer. Users are able to add/subtract/match to/from Buy Box price. In this rule, users may choose one option either Subtract From Buy Box Price or Add To Buy Box Price or Match To Buy Box Price. Users can enter price and select the price to plus/minus in % or $. According to this rule, Repricer will find the Buy Box offer and apply the strategy. Note: Buy Box we compete to can be FBM, FBA or Amazon.  
+What if Buy Box price found less than product's minimum price or greater than maximum price or there is a possibility that there is no Buy Box offer or you are already in a Buy Box. In this case users can set rules for these scenarios in strategy.
 
 **When Competitor \(Buy Box\) Below Your Minimum Price:**  
  We allow users to select one of the following options in this case:
@@ -109,11 +109,6 @@ We allow users to compete with Buy Box offer. Users are able to add/subtract/mat
 
 ![](.gitbook/assets/dont-reprice-greater-than-if-you-are-buy-box-winner.png)
 
-## Compete With Lowest Price {#2}
-
-We allow users to compete with Lowest offer. Users are able to add/subtract/match from/to Lowest price. In this rule, users may choose one option either Subtract From Lowest Price or Add To Lowest Price or Match To Lowest Price. Users can enter price and select the price to add/minus in % or $. According to this rule, Repricer will find the Lowest offer price and apply the strategy.  
- What if Lowest price found less than product's minimum price or greater than maximum price or there is a possibility that there is no Offer. In this case we allow users to set rules for these scenarios in strategy.
-
 ![](.gitbook/assets/only-lowest.png)
 
 **Scenarios:**
@@ -122,6 +117,11 @@ We allow users to compete with Lowest offer. Users are able to add/subtract/matc
  We allow users to select one of the following options in this case:
 
 **`Use Minimum Price`:** It will set price to Minimum Price.
+
+### Compete With Lowest Price
+
+We allow users to compete with Lowest offer. Users are able to add/subtract/match from/to Lowest price. In this rule, users may choose one option either Subtract From Lowest Price or Add To Lowest Price or Match To Lowest Price. Users can enter price and select the price to add/minus in % or $. According to this rule, Repricer will find the Lowest offer price and apply the strategy.  
+What if Lowest price found less than product's minimum price or greater than maximum price or there is a possibility that there is no Offer. In this case we allow users to set rules for these scenarios in strategy.
 
 ![](.gitbook/assets/use-min-price-greater-than-competitor-offer-below-your-minimum-price.png)
 
@@ -161,40 +161,36 @@ We allow users to compete with Lowest offer. Users are able to add/subtract/matc
 
 ![](.gitbook/assets/dont-reprice-greater-than-if-no-competitor.png)
 
-## Compete With Buy Box Then Lowest
-
 We allow users to compete with [**Buy Box**](repricer.md#1-2) ****Offer. What if the Buy Box Offer Not Exist? If so, then we provide a mechanism to user in which they can compete to [**Lowest**](repricer.md#2) ****Offers.
 
 ![](.gitbook/assets/buy-box-then-lowest.png)
-
-## Compete With Lowest Then Buy Box 
 
 We allow users to compete with [**Lowest**](repricer.md#2) ****Offer. What if the Lowest Offer Not Exist? If so, then we provide a mechanism to user in which they can compete to [**Buy Box**](repricer.md#1-2) ****Offers.
 
 ![](.gitbook/assets/lowest-then-buy-box.png)
 
-## Type Of Sellers
+### Compete With Buy Box Then Lowest
 
 There can be following possible sellers which user wants to compete with:  
- **`FBA`:** Compete with Featured By Amazon Sellers.
+ **`FBA`:** Compete with Fulfilment By Amazon Sellers.
 
-**`FBM`:** Compete with Featured By Merchant Sellers.
+**`FBM`:** Compete with Fulfilment By Merchant Sellers.
 
-**`FBA then FBM`:** Compete with Featured by Amazon Sellers if they exist else Compete with Featured by Merchant Sellers.
+**`FBA then FBM`:** Compete with Fulfilment by Amazon Sellers if they exist else Compete with Fulfilment by Merchant Sellers.
 
-**`FBM then FBA`:** Compete with Featured by Merchant Sellers if they exist else Compete with Featured by Amazon Sellers.
+### Compete With Lowest Then Buy Box
 
-**`All`:** Compete with All Sellers
+**`FBM then FBA`:** Compete with Fulfilment by Merchant Sellers if they exist else Compete with Fulfilment by Amazon Sellers.
+
+**`All`:** Compete with All Sellers.
+
+![Sellers](.gitbook/assets/sellers.png)
 
 {% hint style="info" %}
 There is common setting available for How To Reprice Against Competitor. If one wants to have different settings for Amazon, FBA or FBM Seller see Compete Differently section.
 {% endhint %}
 
-![Sellers](.gitbook/assets/sellers.png)
-
-![Compete Differently](.gitbook/assets/compete-differently.png)
-
-## Exclude Sellers
+### Type Of Sellers
 
 User can exclude sellers while competing to other offers. Users can select following options to exclude sellers:  
  **`If Seller Rating Less Than`:** User can enter Seller Rating to exclude sellers. Repricer will not compete with the Seller Rating less than to the number that user enters.  
@@ -206,7 +202,13 @@ User can exclude sellers while competing to other offers. Users can select follo
 
 **`If Amazon Warehouse Deals`:** User can select this option to exclude Amazon Warehouse Deals Seller Offers.
 
+{% hint style="info" %}
+There is default\(How to Reprice Against Competitor\) setting available for How To Reprice Against Competitor. If one wants to have different settings for Amazon, FBA or FBM Seller see Compete Differently section.
+{% endhint %}
+
 **`With Free Shipping`:** User can select this option to exclude Sellers with Free Shipping Offers. **`Ignore Backordered`:** User can select this option to exclude Backordered \(Not Shipping Currently\) Selling Offers.
 
 ![](.gitbook/assets/exclude-sellers.png)
+
+### Exclude Sellers
 
