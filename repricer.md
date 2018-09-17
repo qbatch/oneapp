@@ -157,13 +157,13 @@ We allow users to select one of the following options in this case:
 
 ### Compete With Buy Box Then Lowest
 
-We allow users to compete with [**Buy Box**](repricer.md#1-2) ****Offer. What if the Buy Box Offer Not Exist? If so, then we provide a mechanism to user in which they can compete to [**Lowest**](repricer.md#2) ****Offers.
+We allow users to compete with [**Buy Box**](repricer.md#compete-with-buy-box) ****Offer. What if the Buy Box Offer Not Exist? If so, then we provide a mechanism to user in which they can compete to [**Lowest**](repricer.md#compete-with-lowest-price) ****Offers.
 
 ![](.gitbook/assets/buy-box-then-lowest.png)
 
 ### Compete With Lowest Then Buy Box
 
-We allow users to compete with [**Lowest**](repricer.md#2) ****Offer. What if the Lowest Offer Not Exist? If so, then we provide a mechanism to user in which they can compete to [**Buy Box**](repricer.md#1-2) ****Offers.
+We allow users to compete with [**Lowest**](repricer.md#compete-with-lowest-price) ****Offer. What if the Lowest Offer Not Exist? If so, then we provide a mechanism to user in which they can compete to [**Buy Box**](repricer.md#compete-with-buy-box) ****Offers.
 
 ![](.gitbook/assets/lowest-then-buy-box.png)
 
