@@ -184,7 +184,11 @@ There can be following possible sellers which user wants to compete with:
 
 **`FBM then FBA`:** Compete with Featured by Merchant Sellers if they exist else Compete with Featured by Amazon Sellers.
 
-**`All`:** Compete with All Sellers. Note: There is common setting available for How To Reprice Against Competitor. If one wants to have different settings for Amazon, FBA or FBM Seller see Compete Differently section.
+**`All`:** Compete with All Sellers
+
+{% hint style="info" %}
+There is common setting available for How To Reprice Against Competitor. If one wants to have different settings for Amazon, FBA or FBM Seller see Compete Differently section.
+{% endhint %}
 
 ![Sellers](.gitbook/assets/sellers.png)
 
