@@ -51,7 +51,7 @@ Product is Added To Catalog if you use ADD NEW option of MSKU Dropdown else Prod
 
 #### ADD SINGLE PRODUCT TO BATCH
 
-Same as Product is [Not in Seller's Catalog](list-ship.md#products-not-in-sellers-catalog).
+Same as Product is [Not in Seller's Catalog](list-ship.md#product-not-in-sellers-catalog).
 
 #### ADD MULTIPLE PRODUCTS TO BATCH
 
