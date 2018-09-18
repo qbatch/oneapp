@@ -1,11 +1,59 @@
 # LIST/SHIP
 
-## STEP 1: ADD TO CATALOGUE
+## STEP 1: ADD TO CATALOG
 
-Seller can add a product to catalogue by any of following Methods.
+Seller can add a product to catalog by any of following Methods.
 
-* [ADD TO BATCH](list-ship.md#step1-1).
+* [ADD TO BATCH](list-ship.md#step1).
 * [ADD TO SHIPMENT](list-ship.md#step1).
+
+## ADD TO BATCH {#step1}
+
+### PRODUCT NOT IN SELLER'S CATALOG
+
+1\) Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → List Products page.
+
+![Search Product](.gitbook/assets/1..png)
+
+2\) Click on `Add to Batch` button to add a product in a batch.
+
+![](.gitbook/assets/2..png)
+
+{% hint style="info" %}
+**Product Catalog: Archived** Tag means Product is in Seller's Catalog
+{% endhint %}
+
+3\) If Product is previously Added To Catalogue Seller Sku is selected in MSKU Dropdown else Seller can use ADD NEW option of MSKU Dropdown to **Generate** a new SKU.
+
+![Add To Batch Side Bar](.gitbook/assets/3.%20%281%29.png)
+
+4\) Enter **Ship From Warehouse**, **Packing Type,** **Labelling Preference, Batch Privacy, Batch Name & Select Batch** to add product to batch.
+
+![Add To Batch Side Bar](.gitbook/assets/4.%20%281%29.png)
+
+{% hint style="info" %}
+Seller can choose from the dropdown \(Select Batch\) if he wants to add a product to a Draft/Open/New.
+{% endhint %}
+
+5\) Add Quantity to ship and you can Edit any Information\(In Information, Repricer & Restock Tabs\) you want.
+
+![Add To Batch Side Bar](.gitbook/assets/5.%20%281%29.png)
+
+6\) After adding all the details to product. Click on `Add to Batch` button to add product to a batch.
+
+![Add To Batch Side Bar](.gitbook/assets/6..png)
+
+{% hint style="info" %}
+Product is Added To Catalog if you use ADD NEW option of MSKU Dropdown else Product Quantity is Increased.
+{% endhint %}
+
+### PRODUCT EXIST IN SELLER'S CATALOG
+
+#### ADD SINGLE PRODUCT TO BATCH
+
+Same as Product is [Not in Seller's Catalog](list-ship.md#products-not-in-sellers-catalog).
+
+#### ADD MULTIPLE PRODUCTS TO BATCH
 
 ## ADD TO SHIPMENT {#step1}
 
@@ -13,11 +61,15 @@ Seller can add a product to catalogue by any of following Methods.
 
 1\) Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → List Products page.
 
-![Search Products](.gitbook/assets/1..png)
+![Search Products](.gitbook/assets/1.%20%281%29.png)
 
 2\) Click on `Add to Shipment` button to add a product to a shipment.
 
-![Search Products](.gitbook/assets/2..png)
+![Search Product](.gitbook/assets/2.%20%281%29.png)
+
+{% hint style="info" %}
+**Product Catalog: Archived** Tag means Product is in Seller's Catalog
+{% endhint %}
 
 3\) If Product is previously Added To Catalogue Seller Sku is selected in MSKU Dropdown else Seller can use ADD NEW option of MSKU Dropdown to **Generate** a new SKU.
 
@@ -27,20 +79,20 @@ Seller can add a product to catalogue by any of following Methods.
 
 ![Add To Shipment Side Bar](.gitbook/assets/4..png)
 
-5\) Add Quantity to ship and you can Edit any Information you want.
+5\) Add Quantity to ship and you can Edit any Information\(In Information, Repricer & Restock Tabs\) you want.
 
 ![Add To Shipment Side Bar](.gitbook/assets/5..png)
 
 6\) After adding all the details to product. Click on `Add to Shipment` button to add a product to a shipment. It will take you to the Shipment → Review page.
 
-![Add To Shipment Side Bar](.gitbook/assets/6..png)
+![Add To Shipment Side Bar](.gitbook/assets/6.%20%281%29.png)
 
 7\) After verifying your related information on [**Review Page**](list-ship.md#review-items-page) click on `Create Shipments` button to Ship Product according to Quantity.
 
 ![Review Page](.gitbook/assets/7..png)
 
 {% hint style="info" %}
-Product is Added To Catalogue if you use ADD NEW option of MSKU Dropdown.
+Product is Added To Catalog if you use ADD NEW option of MSKU Dropdown else Product Quantity is Increased.
 {% endhint %}
 
 ### FROM INVENTORY/LIST PAGE
@@ -137,31 +189,6 @@ Product is Added To Catalogue if you use ADD NEW option of MSKU Dropdown.
 ![](.gitbook/assets/10-create-shipments.png)
 
 ## ADD TO BATCH {#step1}
-
-### Products not in Seller’s Catalog:
-
-1. Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → Search Product [page](https://oneapp.minmaxind.com/list/product-search).![Shipment List](.gitbook/assets/search-product.gif)
-2. Click on `Add to Batch` button to add a product in a batch.
-3. Seller can manually add a SKU or generate a new SKU using the button Generate MSKU.
-4. Similarly you can add in your Product Cost Price/List Price and required Quantity to ship.
-5. Seller can add in Minimum/Maximum Sell Price for a repricer at the time of adding a product, similarly he can choose the reprice strategy to be applied to this product, reprice can be enabled for this product right away using the Reprice toggle button on this form, which would only be enabled if min, max price and strategy is selected.
-6. Seller can choose from the dropdown if he wants to add a product to a `DRAFT`_**\(default\)/**_`OPEN` /`NEW` ****batch
-
-> ```text
-> Before shipping a product to Amazon, it is must to list product in seller’s catalog.
-> If seller wants to list a product using a different SKU he also has to choose this process.
-> ```
-
-### Products Exist in Seller’s Catalog:
-
-#### Add Single Product to Batch:
-
-1. Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → Search Product page.
-2. Click on Add to Batch button to add a product in an DRAFT or OPEN batch.![](.gitbook/assets/list-item.png)
-3. By default first Amazon fulfilled product exists in a catalog would be selected with a condition and SKU, seller can choose from a list if it has multiple products with that ASIN, Form would be auto filled with last used values for this product.
-4. Similarly you can add in your Product Cost Price/List Price and required Quantity to ship.
-5. Seller can add in Minimum/Maximum Sell Price for a repricer at the time of adding a product, similarly he can choose the reprice strategy to be applied to this product, reprice can be enabled for this product right away using the Reprice toggle button on this form, which would only be enabled if min, max price and strategy is selected.
-6. Seller can choose from the dropdown if he wants to add a product to a DRAFT or OPEN batch.
 
 #### Add Multiple Products to Batch:
 
