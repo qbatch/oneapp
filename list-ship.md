@@ -1,34 +1,140 @@
 # LIST/SHIP
 
+## STEP 1: ADD TO CATALOGUE
+
+Seller can add a product to catalogue by any of following Methods.
+
+* [ADD TO BATCH](list-ship.md#step1-1).
+* [ADD TO SHIPMENT](list-ship.md#step1).
+
 ## ADD TO SHIPMENT {#step1}
 
 ### FROM LIST PRODUCTS PAGE
 
-1. Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → List Products [page](https://oneapp.minmaxind.com/list/product-search).
-2. Click on `Add to Shipment` button to add a product to a shipment. 
-3. Seller can manually add a SKU or generate a new SKU using the button Generate MSKU.
-4. Similarly you can add in your Product Cost Price/List Price and required Quantity to ship.
-5. Select **Ship From Warehouse**, **Package Type** and **Labelling Preference** to add product to shipment.
-6. After adding all the details to product. Click on `Add to Shipment` button to add a product to a shipment. It will take you to the Add To Shipment → Review Items page.
+1\) Search a product using Title, ASIN, UPC, EAN or ISBN on List/Ship → List Products page.
+
+![Search Products](.gitbook/assets/1..png)
+
+2\) Click on `Add to Shipment` button to add a product to a shipment.
+
+![Search Products](.gitbook/assets/2..png)
+
+3\) If Product is previously Added To Catalogue Seller Sku is selected in MSKU Dropdown else Seller can use ADD NEW option of MSKU Dropdown to **Generate** a new SKU.
+
+![Add To Shipment Side Bar](.gitbook/assets/3..png)
+
+4\) Enter **Ship From Warehouse**, **Packing Type** and **Labelling Preference** to add product to shipment.
+
+![Add To Shipment Side Bar](.gitbook/assets/4..png)
+
+5\) Add Quantity to ship and you can Edit any Information you want.
+
+![Add To Shipment Side Bar](.gitbook/assets/5..png)
+
+6\) After adding all the details to product. Click on `Add to Shipment` button to add a product to a shipment. It will take you to the Shipment → Review page.
+
+![Add To Shipment Side Bar](.gitbook/assets/6..png)
+
+7\) After verifying your related information on [**Review Page**](list-ship.md#review-items-page) click on `Create Shipments` button to Ship Product according to Quantity.
+
+![Review Page](.gitbook/assets/7..png)
+
+{% hint style="info" %}
+Product is Added To Catalogue if you use ADD NEW option of MSKU Dropdown.
+{% endhint %}
 
 ### FROM INVENTORY/LIST PAGE
 
-1. Select items you want to add to shipment. 
-2. Click on `Add to Shipment` button to add products to a shipment. 
-3. Select **Ship From Warehouse**, **Package Type** and **Labelling Preference** to add product to shipment.
-4. You can add Cost Price, Minimum & Maximum Sell Price, Quantity and Expiration date for each product.
-5. After adding all the details to product. Click on `Add to Shipment` button to add products to a shipment. It will take you to the Add To Shipment → Review Items page. 
+1\) Select items you want to add to shipment.
+
+![Inventory List](.gitbook/assets/1.png)
+
+2\) Click on `Add to Shipment` option to add products to a shipment.
+
+![Inventory List](.gitbook/assets/2%20%281%29.png)
+
+3\) Enter **Ship From Warehouse**, **Package Type** and **Labelling Preference** to add product to shipment.
+
+![Add To Shipment Side Bar](.gitbook/assets/3.png)
+
+4\) Add Quantity of Product\(s\) you want.
+
+![Add To Shipment Side Bar](.gitbook/assets/4.png)
+
+5\) You can also enter\(if any\) Purchase Data, Cost Price, Supplier and Expiration Date for each product.
+
+![Add To Shipment Side Bar](.gitbook/assets/5.png)
+
+6\) Use Add Split on Product Quantity to Ship Product if there is difference of Data\(Purchase Data, Cost Price, Supplier or Expiration Date\) between them.
+
+![Add To Shipment Side Bar](.gitbook/assets/6.png)
+
+7\) After adding all the details to product. Click on `Add to Shipment` button to add products to a shipment. It will take you to the Add To Shipment → Review Items page.
+
+![Add To Shipment Side Bar](.gitbook/assets/7.png)
+
+8\) After verifying your related information on [**Review Page**](list-ship.md#review-items-page) ****click on `Create Shipments` button to Ship Product according to Quantity.
+
+![Review Page](.gitbook/assets/8.png)
 
 ### REVIEW ITEMS PAGE
 
-1. Review items page shows you the amazon recommended distribution of product across multiple warehouses.
-2. To increase/decrease the quantity of product, enter the new quantity and click on`Save` button.
-3. Click on the edit icon to edit product details.
-4. By default existing WORKING shipment has been selected. You can hover on the shipment ID to choose from existing WORKING shipments or new shipment \(If you don't want to merge with any existing shipment\).
-5. Initially default name is provided for new shipments, However you can edit the shipment name.
-6. You can view the existing items inside shipment by clicking on info icon in front of the shipment ID.
-7. If you don't want to send the items to particular warehouse. You can remove that quantity by clicking on remove icon in front of the particular shipment ID.
-8. Once you finished reviewing the items. Now you can click on`Create Shipments` button to add the items to shipments on amazon.
+1\) By Default Review page shows you Product Wise Data.
+
+![Review Page](.gitbook/assets/1-default-view.png)
+
+2\) Click on`View Shipments`Button to view Review page in Shipment View.
+
+![Review Page](.gitbook/assets/2-1-default-view.png)
+
+![Shipment View Side Bar](.gitbook/assets/2-2-shipment-view.png)
+
+3\) Use following Dropdown to change Box Content Source.
+
+![Review Page](.gitbook/assets/3-box-content-source.png)
+
+4\) Hover on the printer icon to edit quantity of labels to be printed and click printer icon button.
+
+![Review Page](.gitbook/assets/4-print-labels.png)
+
+5\) Click on the edit icon to edit product details.
+
+![Review Page](.gitbook/assets/5-1-edit-product.png)
+
+![Edit Product Bar](.gitbook/assets/5-2-edit-bar.png)
+
+6\)To increase/decrease the quantity of product perform following tasks.
+
+     1\) Click `Change`Button.
+
+![Review Page](.gitbook/assets/6-1-default-view.png)
+
+![Split Product Quantity Side Bar](.gitbook/assets/6-2-change-quantity%20%281%29.png)
+
+     2\) Click on `+`Button to Add a Split.  
+     3\) Enter Data.  
+     4\) Click on `Save Changes`Button to Save.  
+     5\) Click on`x`Button to Remove a Split.
+
+![Split Product Quantity Side Bar](.gitbook/assets/6-3-add-remove-and-save-changes.png)
+
+7\) By default existing WORKING shipment has been selected. You can hover on the shipment ID to choose from existing WORKING shipments or new shipment \(If you don't want to merge with any existing shipment\).
+
+![Review Page](.gitbook/assets/7-working-shipment.png)
+
+8\) Initially default name is provided for new shipments, However you can edit the shipment name.
+
+![Review Page](.gitbook/assets/8-default-shipment-names.png)
+
+9\) You can view the existing items inside shipment by clicking on info icon in front of the shipment ID.
+
+![Review Page](.gitbook/assets/9-1-working-shipments.png)
+
+![Shipment View](.gitbook/assets/9-2-working-shipments-side-bar.png)
+
+10\) Once you finished reviewing the items. Now you can click on`Create Shipments` button to add the items to shipments on amazon.
+
+![](.gitbook/assets/10-create-shipments.png)
 
 ## ADD TO BATCH {#step1}
 
