@@ -55,6 +55,34 @@ Same as Product is [Not in Seller's Catalog](list-ship.md#product-not-in-sellers
 
 #### ADD MULTIPLE PRODUCTS TO BATCH
 
+1\) Select items you want to add to batch.
+
+![Inventory List](.gitbook/assets/1-e.i.c-m.p.png)
+
+2\) Click on `Add to Batch` option to add products to a batch.
+
+![Inventory List](.gitbook/assets/2-e.i.c-m.p.png)
+
+3\) Enter  **Ship From Warehouse**, **Packing Type,** **Labelling Preference, Batch Privacy, Batch Name & Select Batch** to add product to batch.
+
+![Add To Batch Side Bar](.gitbook/assets/3-e.i.c-m.p.png)
+
+4\) Add Quantity of Product\(s\) you want to add to batch.
+
+![Add To Batch Side Bar](.gitbook/assets/4-e.i.c-m.p.png)
+
+5\) You can also enter\(if any\) Purchase Data, Cost Price, Supplier and Expiration Date for each product.
+
+![Add To Batch Side Bar](.gitbook/assets/5-e.i.c-m.p.png)
+
+6\) Use Add Split on Product Quantity to Ship Product if there is difference of Data\(Purchase Data, Cost Price, Supplier or Expiration Date\) between them.
+
+![Add To Batch Side Bar](.gitbook/assets/6-e.i.cm.p.png)
+
+7\) After adding all the details to product. Click on `Add to Batch` button to add products to selected batch.
+
+![Add To Batch Side Bar](.gitbook/assets/7-e.i.cm.p.png)
+
 ## ADD TO SHIPMENT {#step1}
 
 ### FROM LIST PRODUCTS PAGE
@@ -187,13 +215,6 @@ Product is Added To Catalog if you use ADD NEW option of MSKU Dropdown else Prod
 10\) Once you finished reviewing the items. Now you can click on`Create Shipments` button to add the items to shipments on amazon.
 
 ![](.gitbook/assets/10-create-shipments.png)
-
-## ADD TO BATCH {#step1}
-
-#### Add Multiple Products to Batch:
-
-1. Go to Inventory → List Page, find products using custom filters, Seller can select multiple products using checkbox, selected products would be preserved while you can change filters and select other products for the batch. You can view selected products anytime using the View Selected option, and clear selection using Clear Selection option.![](.gitbook/assets/add-batch-inventory.png)
-2. Seller can choose from the Add To Batch dropdown if he wants to add a product to a `DRAFT` or `OPEN` batch.
 
 ## STEP 2: WORK ON BATCH {#step2}
 
