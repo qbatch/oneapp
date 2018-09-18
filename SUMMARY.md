@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](introduction.md)
+* [Introduction](README.md)
 * [Settings](settings/README.md)
   * [MWS Setup](settings/mws-setup.md)
   * [Printer Setup](settings/printer-setup.md)

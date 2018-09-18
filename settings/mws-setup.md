@@ -1,7 +1,3 @@
----
-description: Setup your Amazon's MWS Credentials in one app to sync data.
----
-
 # MWS Setup
 
 ## Step 1

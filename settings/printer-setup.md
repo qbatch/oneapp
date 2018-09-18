@@ -1,9 +1,3 @@
----
-description: >-
-  Setup printer to print Shipping Labels, Product Labels, Pallet Labels, Quick
-  Labels
----
-
 # Printer Setup
 
 ## LP App

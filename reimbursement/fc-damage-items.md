@@ -1,10 +1,3 @@
----
-description: >-
-  FC Damage Items are items which are damaged at the fulfilment centre. Items
-  which needs to be claimed are on Claimable page and items which are already
-  reimbursed by amazon are on REIMBURSED page.
----
-
 # FC Damage Items
 
 ## CLAIMABLE:
