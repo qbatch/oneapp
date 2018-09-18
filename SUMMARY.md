@@ -1,6 +1,5 @@
 # Table of contents
 
-* [Introduction](README.md)
 * [Introduction](introduction.md)
 * [Settings](settings/README.md)
   * [MWS Setup](settings/mws-setup.md)
