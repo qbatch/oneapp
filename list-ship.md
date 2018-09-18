@@ -17,7 +17,7 @@ Seller can add a product to catalog by any of following Methods.
 
 2\) Click on `Add to Batch` button to add a product in a batch.
 
-![](.gitbook/assets/2..png)
+![Search Product](.gitbook/assets/2..png)
 
 {% hint style="info" %}
 **Product Catalog: Archived** Tag means Product is in Seller's Catalog
@@ -214,7 +214,7 @@ Product is Added To Catalog if you use ADD NEW option of MSKU Dropdown else Prod
 
 10\) Once you finished reviewing the items. Now you can click on`Create Shipments` button to add the items to shipments on amazon.
 
-![](.gitbook/assets/10-create-shipments.png)
+![Review Page](.gitbook/assets/10-create-shipments.png)
 
 ## STEP 2: WORK ON BATCH {#step2}
 
