@@ -1,8 +1,15 @@
+---
+description: >-
+  Here we show the items which are damaged at Amazon Fulfilment Centre. Items
+  which needs to claimed are showed on CLAIMABLE page and items which already
+  been reimbursed by amazon are on REIMBURSED page
+---
+
 # FC Damage Items
 
 ## CLAIMABLE:
 
-Claimable items are the items that you needs to be claim and Claimable column shows the no of items you need to claim against product.
+Claimable items are the items that you needs to be claim and **Claimable** column shows the no of items you need to claim against product.
 
 ![](../.gitbook/assets/2018-09-18_15-04-21.png)
 
@@ -22,7 +29,7 @@ Once you opened a case you can mark those items as **claimed** by clicking **Mar
 
 ![](../.gitbook/assets/2018-09-18_15-32-02.png)
 
-By clicking the **Next** button you can view the template of next 5 items.
+By clicking the **Next** button you can view the template for next 5 items.
 
 
 
@@ -34,5 +41,5 @@ This page shows the items which are already reimbursed by amazon.
 
 ## CLAIMED:
 
-This page shows the items for which you already opened up a case. You can move items from **TO BE CLAIMED** page to here.
+This page shows the items for which you already opened up a case. You can move items from **CLAIMABLE** page to here.
 
