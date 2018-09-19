@@ -284,3 +284,9 @@ CLOSED is Closed for Editing.
 
 ![Shipment/Items](../.gitbook/assets/7-2-pack-batch.png)
 
+{% hint style="info" %}
+FEED -&gt; Submit Box Content Information through Feed Automatically.  
+2D\_BARCODE -&gt; Submit Box Content Information by a Barcode on the Shipment.  
+NONE -&gt; Amazon will Manually Process The Submitted Box Content. This may incur a Fee.
+{% endhint %}
+
