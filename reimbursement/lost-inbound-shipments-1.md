@@ -30,7 +30,7 @@ After opening up a case, you can mark shipment as **Reimbursed** or **No Action*
 
 This page shows the shipments which are already reimbursed by amazon.
 
-## No Action:
+## NO ACTION:
 
 This page shows the shipments for which you don't need to perform any action.
 

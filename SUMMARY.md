@@ -4,6 +4,7 @@
 * [Settings](settings/README.md)
   * [MWS Setup](settings/mws-setup.md)
   * [Printer Setup](settings/printer-setup.md)
+  * [User Permissions](settings/user-permissions.md)
 * [LIST/SHIP](list-ship.md)
 * [REPRICER](repricer/README.md)
   * [FIELD BASED MIN/MAX PRICES](repricer/field-base-rules.md)
