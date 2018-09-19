@@ -12,17 +12,17 @@ our restock has a To Restock Products page which enables our users to view produ
 
 ![Products need to restock](.gitbook/assets/torestockproducts.png)
 
-### To Buy  
+### To Buy Quantity
 
-To Buy showing amount of product need to buy.Formula used to calculate to buy amount :   
-**\(targetStockPeriod + supplierLeadTime - stockRemainingDays\)\) \* saleVelocity\)**  
+To Buy showing amount of product need to buy. Formula used to calculate to buy amount :  
+**`(targetStockPeriod + supplierLeadTime - stockRemainingDays)) * saleVelocity)`**  
 
 
 ![To Buy Amount](.gitbook/assets/tobuyamount.png)
 
 ## Over Stocked Products
 
-overstocked page in which we facilitating our users to view how much your products are overstocked in amazon, showing estimated fee and inventory age.  
+Overstocked page in which we facilitating our users to view how much your products are overstocked in amazon, showing estimated fee and inventory age.  
 Excess Units shows overstocked amount.
 
 ![Excess units, Fee According To Inventory Age](.gitbook/assets/overstocked.png)
@@ -36,13 +36,11 @@ By clicking Detail button enabling our users to view stats of product how much i
 
 ![](.gitbook/assets/restocksingleprodct.png)
 
-## Report
-
-
+## Buy List
 
 By clicking report button we can view description, quality and supplier of product.Same in Over Stocked page as well as in restock products page.
 
-![Products Selected To View Report](.gitbook/assets/reportselect.png)
+![](.gitbook/assets/2018-09-19_15-09-21.png)
 
 ![Report Of Products](.gitbook/assets/report.png)
 
