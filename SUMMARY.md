@@ -24,6 +24,8 @@
   * [Other Expenses](reports/other-expenses.md)
 * [RESTOCK](restock.md)
 * [INVENTORY](inventory/README.md)
+  * [FBA](inventory/fba.md)
+  * [FBM](inventory/fbm.md)
   * [Suppressed / Stranded](inventory/suppressed-stranded.md)
 * [Supplier](supplier.md)
 * [Warehouse](warehouse.md)
