@@ -24,4 +24,6 @@
   * [Other Expenses](reports/other-expenses.md)
 * [RESTOCK](restock.md)
 * [Release Notes](release-notes.md)
+* [INVENTORY](inventory/README.md)
+  * [Suppressed / Stranded](inventory/suppressed-stranded.md)
 
