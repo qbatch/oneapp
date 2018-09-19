@@ -26,5 +26,6 @@
 * [INVENTORY](inventory/README.md)
   * [Suppressed / Stranded](inventory/suppressed-stranded.md)
 * [Supplier](supplier.md)
+* [Warehouse](warehouse.md)
 * [Release Notes](release-notes.md)
 
