@@ -1,22 +1,24 @@
 # Sales Activity
 
-Users can view sales activity graphs according to group period, by default data grouped monthly basis.
+## Sales Activity
+
+Users can view sales activity graphs according to group period, by default data grouped **monthly** basis.
 
 ![Sales Activity](../.gitbook/assets/activity1.png)
 
-**Daily basis**
+### **Daily**
 
 Users can view graphs on daily basis of selected months in filter.
 
 ![Sales activity according to daily basis](../.gitbook/assets/activity2.png)
 
-**Weekly basis**
+### **Weekly**
 
 Users can view graphs on weekly basis of selected month in filter.
 
 ![Sales activity according to weekly basis](../.gitbook/assets/activity3.png)
 
-**Yearly basis**
+### **Yearly**
 
 Users can view graphs on yearly basis of selected year.
 

@@ -1,5 +1,7 @@
 # Other Expenses
 
+## Other Expenses
+
 Users can add their other expenses from that page by clicking Add Expenses after adding Description, Date and Amount.Total other expenses shown in bottom bar.
 
 ![](../.gitbook/assets/otherexpense1.png)

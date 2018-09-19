@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Settings](settings/README.md)
+* [SETTINGS](settings/README.md)
   * [MWS Setup](settings/mws-setup.md)
   * [Printer Setup](settings/printer-setup.md)
   * [User Permissions](settings/user-permissions.md)
@@ -12,7 +12,7 @@
   * [Import Products From File To Batch/Shipment](list-ship/import-products-from-file-to-batch-shipment.md)
 * [REPRICER](repricer/README.md)
   * [FIELD BASED MIN/MAX PRICES](repricer/field-base-rules.md)
-* [Reimbursement](reimbursement/README.md)
+* [REIMBURSEMENT](reimbursement/README.md)
   * [FC Damage Items](reimbursement/fc-damage-items.md)
   * [FC Lost Items](reimbursement/fc-lost-items.md)
   * [Lost Inbound Shipments](reimbursement/lost-inbound-shipments-1.md)
@@ -23,7 +23,7 @@
   * [Sales Activity](reports/sales-activity.md)
   * [Other Expenses](reports/other-expenses.md)
 * [RESTOCK](restock.md)
-* [Release Notes](release-notes.md)
 * [INVENTORY](inventory/README.md)
   * [Suppressed / Stranded](inventory/suppressed-stranded.md)
+* [Release Notes](release-notes.md)
 

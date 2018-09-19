@@ -4,17 +4,27 @@ Profit and loss page enable our users to view total Income , Expenses and Others
 
 ![](../.gitbook/assets/profit1.png)
 
+### Selectors
+
 Users can view profit and loss according to selectors.
 
 ![Selectors](../.gitbook/assets/profit2.png)
+
+### Daily
 
 Users can view profit loss reports of different periods.
 
 ![Daily](../.gitbook/assets/a2.png)
 
-![Quaterly](../.gitbook/assets/a4.png)
+### Quarterly
+
+![Quarterly](../.gitbook/assets/a4.png)
+
+### Yearly
 
 ![Yearly](../.gitbook/assets/a5.png)
+
+### Custom Range
 
 ![Custom Range](../.gitbook/assets/a7.png)
 
