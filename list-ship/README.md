@@ -5,7 +5,7 @@
 Seller can add a product to catalog by any of following Methods.
 
 * [ADD TO BATCH](./#step1).
-* [ADD TO SHIPMENT](./#step1).
+* [ADD TO SHIPMENT](./#step1-1).
 
 ## ADD TO BATCH {#step1}
 
@@ -20,12 +20,16 @@ Seller can add a product to catalog by any of following Methods.
 ![Search Product](../.gitbook/assets/2..png)
 
 {% hint style="info" %}
-**Product Catalog: Archived** Tag means Product is in Seller's Catalog
+**Product Catalog: Archived** Tag means Product removed from Seller's Catalog
 {% endhint %}
 
 3\) If Product is previously Added To Catalogue Seller Sku is selected in MSKU Dropdown else Seller can use ADD NEW option of MSKU Dropdown to **Generate** a new SKU.
 
 ![Add To Batch Side Bar](../.gitbook/assets/3.%20%281%29.png)
+
+{% hint style="info" %}
+Product is Added To Catalog if you use ADD NEW option of MSKU Dropdown else Product Quantity is Increased.
+{% endhint %}
 
 4\) Enter **Ship From Warehouse**, **Packing Type,** **Labelling Preference, Batch Privacy, Batch Name & Select Batch** to add product to batch.
 
@@ -42,10 +46,6 @@ Seller can choose from the dropdown \(Select Batch\) if he wants to add a produc
 6\) After adding all the details to product. Click on `Add to Batch` button to add product to a batch.
 
 ![Add To Batch Side Bar](../.gitbook/assets/6..png)
-
-{% hint style="info" %}
-Product is Added To Catalog if you use ADD NEW option of MSKU Dropdown else Product Quantity is Increased.
-{% endhint %}
 
 ### PRODUCT EXIST IN SELLER'S CATALOG
 
@@ -96,12 +96,16 @@ Same as Product is [Not in Seller's Catalog](./#product-not-in-sellers-catalog).
 ![Search Product](../.gitbook/assets/2.%20%281%29.png)
 
 {% hint style="info" %}
-**Product Catalog: Archived** Tag means Product is in Seller's Catalog
+**Product Catalog: Archived** Tag means Product removed from Seller's Catalog
 {% endhint %}
 
 3\) If Product is previously Added To Catalogue Seller Sku is selected in MSKU Dropdown else Seller can use ADD NEW option of MSKU Dropdown to **Generate** a new SKU.
 
 ![Add To Shipment Side Bar](../.gitbook/assets/3..png)
+
+{% hint style="info" %}
+Product is Added To Catalog if you use ADD NEW option of MSKU Dropdown else Product Quantity is Increased.
+{% endhint %}
 
 4\) Enter **Ship From Warehouse**, **Packing Type** and **Labelling Preference** to add product to shipment.
 
@@ -118,10 +122,6 @@ Same as Product is [Not in Seller's Catalog](./#product-not-in-sellers-catalog).
 7\) After verifying your related information on [**Review Page**](./#review-items-page) click on `Create Shipments` button to Ship Product according to Quantity.
 
 ![Review Page](../.gitbook/assets/7..png)
-
-{% hint style="info" %}
-Product is Added To Catalog if you use ADD NEW option of MSKU Dropdown else Product Quantity is Increased.
-{% endhint %}
 
 ### FROM INVENTORY/LIST PAGE
 
@@ -218,47 +218,69 @@ Product is Added To Catalog if you use ADD NEW option of MSKU Dropdown else Prod
 
 ## STEP 2: WORK ON BATCH {#step2}
 
-Here's a line for us to start with  
-1. Go to List/Ship → Batches page to finalize your OPEN/DRAFT batch.![](../.gitbook/assets/batch-list.png)  
-2. To finalize click on `WORK` button to continue to Create Shipment Plan page.
+1\) Following is The Layout of page.
 
-> ```text
-> By default batch privacy would be OPEN to every user, which means any user can add items to this batch,
-> if it is LOCKED only a user who has created can add items
-> ```
+![Batches](../.gitbook/assets/1-work-on-batch.png)
 
-1. User can edit the batch name, select the batch privacy, ship from warehouse, package and label types for a particular batch.
-2. Seller can manually enter/update any field directly or use the Add Details to Selected button to bulk edit the Cost Price, Minimum price, Maximum price or Quantity.
+2\) Status Dropdown.
 
-![](../.gitbook/assets/create-shipment-plan.png)
+![Batches](../.gitbook/assets/2-work-on-batch.png)
 
-> ```text
-> Product Catalog Status (hover on status for details)
-> EXIST: Product Already exist in seller’s catalog
-> **PENDING**: Adding a new product to catalog is in progress
-> ERROR: A Product cannot be added to seller’s catalog because of any error, you cannot go to next step without removing this product from the batch.
-> ```
+3\) Click on`Work`button To start Working on Batch. You are on [Review Page](./#review-items-page) now.
 
-1. You can press Create Shipment Plan button to proceed, in case of errors you can see the errors on screen and you need to fix
+![Batches](../.gitbook/assets/3-work-on-batch.png)
 
-   any errors mentioned.
+{% hint style="info" %}
+By Default Batch Privacy is OPEN. User\(s\) can Add Items to Open Privacy Batch.  
+LOCKED Batch Privacy can only be Edited by its Creator.
+{% endhint %}
 
-## STEP 3: FINALISE BATCH {#step3}
+4\) Closed Batch is closed for Everyone.
 
-1. A shipment plan would suggest to create multiple shipments recommended by Amazon based on Fulfilment center and Label Type. App would show any existing shipments for the same Fulfillment Center and Label type next to a shipment recommended by amazon so that can be merged. If you want to merge with an existing shipment you can mark the checkbox otherwise a new shipment would be created. A recommended shipment can be removed using a \(x\) button at the end of row.![](../.gitbook/assets/review-shipment.png)
-2. You can also select the Box Content Source for the newly created shipments from the top menu, you can choose between ****`NONE`_**\(default\)**_, `2D Barcode` and `FEED`
-3. You can press Create Shipments to proceed, you would be taken to shipments page where you can view the shipments created by this particular  batch.
+![Batches](../.gitbook/assets/4-work-on-batch.png)
 
-## STEP 4: PACK BATCH {#step4}
+{% hint style="info" %}
+OPEN is Open for Editing.  
+CLOSED is Closed for Editing.
+{% endhint %}
 
-1. You would be redirected to **List/Ship → Shipments** [page](https://oneapp.minmaxind.com/list/shipments) to finalise a shipment.![Shipment List](../.gitbook/assets/inbound-shipment-list.png)
-2. You can `Edit`**/**`Update`**/**`Remove` ****and Print Shipping Labels for any shipment.
-3. Click on `ITEMS` button to View/Pack shipment items into boxes.
-4. Select the items using the checkbox, you can add a custom quantity to a box by editing the Qty to Box field, click on the Add to Box button to add items into an existing box or create a new box.
-5. Item quantity in a box can be edited in the box and you are also able to add a custom expiry date to a product.
-6. A product can be removed from a box using delete button, Item label can be printed using the print button.
-7. Shipment Item List shows the number of products in a particular box and the remaining quantity to be packed.
-8. When All items are successfully packed to boxed you can submit a feed using a Submit Feed button on the top.
+## STEP 3: PACK BATCH {#step4}
 
+1\) Go to **List/Ship → Shipments** to finalise a shipment. You can `Edit`**/**`Update`**/**`Remove` ****and `Print Shipping Labels`for any shipment. Clicking `Work`button redirects to **Shipments →Items** page to View/Pack Shipment Items into Boxes.
 
+![Shipments](../.gitbook/assets/1-pack-batch.png)
+
+2\) Create a Box.
+
+![Shipment/Items](../.gitbook/assets/2-1-pack-batch.png)
+
+![Shipment/Items](../.gitbook/assets/2-2-pack-batch%20%281%29.png)
+
+3\) You can Edit the Quantity to be Added in the Box through `Qty to Box`field. Select Items to be Added To Box. Go to `Add to Box`and Select the Box.
+
+![Shipment/Items](../.gitbook/assets/3-1-pack-batch.png)
+
+![Shipment/Items](../.gitbook/assets/3-2-pack-batch.png)
+
+![Shipment/Items](../.gitbook/assets/3-3-pack-batch.png)
+
+4\) Item quantity in a box can be edited in the box and you are also able to add a custom expiry date to a product.
+
+![Shipment/Items](../.gitbook/assets/4-pack-batch.png)
+
+5\) A product can be removed from a box using delete button, Item label can be printed using the print button.
+
+![Shipment/Items](../.gitbook/assets/5-1-pack-batch.png)
+
+![Shipment/Items](../.gitbook/assets/5-2-pack-batch.png)
+
+6\) Shipment Item List shows the number of products in a particular box and the remaining quantity to be packed.
+
+![Shipment/Items](../.gitbook/assets/6-pack-batch%20%281%29.png)
+
+7\) When All items are successfully packed click on `Complete Box Content` button on the top right corner. A Confirmation Dialog is there, Confirm it.
+
+![Shipment/Items](../.gitbook/assets/7-1-pack-batch.png)
+
+![Shipment/Items](../.gitbook/assets/7-2-pack-batch.png)
 
