@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [INTRODUCTION](README.md)
 * [SETTINGS](settings/README.md)
   * [MWS Setup](settings/mws-setup.md)
   * [Printer Setup](settings/printer-setup.md)
@@ -25,5 +25,6 @@
 * [RESTOCK](restock.md)
 * [INVENTORY](inventory/README.md)
   * [Suppressed / Stranded](inventory/suppressed-stranded.md)
+* [Supplier](supplier.md)
 * [Release Notes](release-notes.md)
 

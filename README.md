@@ -1,4 +1,4 @@
-# Introduction
+# INTRODUCTION
 
 One app is a web-based application that helps Amazon sellers streamline listing process, inbound product shipment, multi-channel fulfilment along with automated Sales History & Profit and Loss \(P&L\) reports. One App provides following features out of the box, You just need to connect it to MWS!
 
