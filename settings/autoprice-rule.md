@@ -1,4 +1,4 @@
-# Autoprice Rule
+# Auto Price Rule
 
 Our users can set auto price rules, so when users will create product, list price will set according to rule.
 

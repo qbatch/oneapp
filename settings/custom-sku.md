@@ -1,10 +1,12 @@
 # Custom SKU
 
-our settings has a Custom MSKU tab which enables users to Create Custom Seller Stock Keeping Unit \(SKU\) .
+The One App allows you to automatically create information rich Merchant SKUs when listing products. 
 
 ![Custom MSKU](../.gitbook/assets/custom1.png)
 
-First Choose the options you want to have for custom SKU.
+## Step 1
+
+Select from the drop-down box what information fields you want auto-generated during MSKU creation.  
 
 ![Options for Custom MSKU](../.gitbook/assets/custom2.png)
 

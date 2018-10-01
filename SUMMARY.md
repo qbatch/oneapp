@@ -6,7 +6,7 @@
   * [Printer Setup](settings/printer-setup.md)
   * [User Permissions](settings/user-permissions.md)
   * [Custom SKU](settings/custom-sku.md)
-  * [Autoprice Rule](settings/autoprice-rule.md)
+  * [Auto Price Rule](settings/autoprice-rule.md)
   * [Quick labels](settings/quick-labels.md)
 * [LIST/SHIP](list-ship/README.md)
   * [Import Products From File To Batch/Shipment](list-ship/import-products-from-file-to-batch-shipment.md)
