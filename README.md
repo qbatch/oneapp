@@ -25,7 +25,7 @@ One app is a web-based application that helps Amazon sellers streamline listing 
 
 
 
-### Onboarding {#step1}
+### Onboarding <a id="step1"></a>
 
 #### Step 1**:**
 
@@ -47,7 +47,7 @@ After the payment you can setup your [MWS Credentials](settings/mws-setup.md). T
 Give the Sync process time to complete \(it will vary depending on the number of items in your catalog\). Once the process completes you will see all of your inventory items in the Inventory page. The process might take approximately three to four days. You can see the current status of the Sync process on the [Background Jobs Timeline](https://oneapp.minmaxind.com/background-tasks) page.
 {% endhint %}
 
-###  {#printer}
+###  <a id="printer"></a>
 
 
 

@@ -30,4 +30,5 @@
 * [Supplier](supplier.md)
 * [Warehouse](warehouse.md)
 * [Release Notes](release-notes.md)
+* [Understanding FBA Errors](understanding-fba-errors.md)
 

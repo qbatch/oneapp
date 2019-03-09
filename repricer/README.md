@@ -1,12 +1,12 @@
 # REPRICER
 
-## Dashboard {#1}
+## Dashboard <a id="1"></a>
 
 Our repricer has a Dashboard page which enables our users to check performance of Repricer in terms of Repricing Events, Pricing & Buy Box.
 
 ![Dashboard Page](../.gitbook/assets/dashboard.png)
 
-## Settings {#1-1}
+## Settings <a id="1-1"></a>
 
 Our repricer has a Settings page which has Option to Enable/Disable Repricer & Test/Live Mode.
 

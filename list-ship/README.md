@@ -7,7 +7,7 @@ Seller can add a product to catalog by any of following Methods.
 * [ADD TO BATCH](./#step1).
 * [ADD TO SHIPMENT](./#step1-1).
 
-## ADD TO BATCH {#step1}
+## ADD TO BATCH <a id="step1"></a>
 
 ### PRODUCT NOT IN SELLER'S CATALOG
 
@@ -83,7 +83,7 @@ Same as Product is [Not in Seller's Catalog](./#product-not-in-sellers-catalog).
 
 ![Add To Batch Side Bar](../.gitbook/assets/7-e.i.cm.p.png)
 
-## ADD TO SHIPMENT {#step1}
+## ADD TO SHIPMENT <a id="step1"></a>
 
 ### FROM LIST PRODUCTS PAGE
 
@@ -216,7 +216,7 @@ Product is Added To Catalog if you use ADD NEW option of MSKU Dropdown else Prod
 
 ![Review Page](../.gitbook/assets/10-create-shipments.png)
 
-## STEP 2: WORK ON BATCH {#step2}
+## STEP 2: WORK ON BATCH <a id="step2"></a>
 
 1\) Following is The Layout of page.
 
@@ -244,7 +244,7 @@ OPEN is Open for Editing.
 CLOSED is Closed for Editing.
 {% endhint %}
 
-## STEP 3: PACK BATCH {#step4}
+## STEP 3: PACK BATCH <a id="step4"></a>
 
 1\) Go to **List/Ship → Shipments** to finalise a shipment. You can `Edit`**/**`Update`**/**`Remove` ****and `Print Shipping Labels`for any shipment. Clicking `Work`button redirects to **Shipments →Items** page to View/Pack Shipment Items into Boxes.
 

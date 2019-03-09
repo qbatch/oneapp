@@ -13,7 +13,7 @@ Claimable items are the items that you needs to be claim and **Claimable** colum
 
 ![](../.gitbook/assets/2018-09-18_17-47-15.png)
 
-### How to Claim: {#how-to-claim}
+### How to Claim: <a id="how-to-claim"></a>
 
 To claim damage items click the **Claim Damage Item** button.
 
@@ -29,13 +29,13 @@ Once you opened a case you can mark those items as **claimed** by clicking **Mar
 
 By clicking the **Next** button you can view the template for next 5 items.​
 
-## REIMBURSED: {#reimbursed}
+## REIMBURSED: <a id="reimbursed"></a>
 
 This page shows the items which are already reimbursed by amazon.
 
 ​
 
-## CLAIMED: {#claimed}
+## CLAIMED: <a id="claimed"></a>
 
 This page shows the items for which you already opened up a case. You can move items from **TO BE CLAIMED** page to here.[  
 ](https://docs.minmaxind.com/reimbursement)
